@@ -1,0 +1,2069 @@
+Date: 2018-11-29 
+74.41.61.181, Reno (40.5638, -122.239) 
+Time:  1:14:51.73 
+
+Pinging 74.41.61.181 with 32 bytes of data:
+Reply from 74.41.61.181: bytes=32 time=99ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=99ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=101ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=139ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+Reply from 74.41.61.181: bytes=32 time=98ms TTL=53
+
+Ping statistics for 74.41.61.181:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 98ms, Maximum = 139ms, Average = 102ms
+
+Tracing route to static-74-41-61-181.dsl1.pco.ca.frontiernet.net [74.41.61.181]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     1 ms  192.168.0.1 
+  2    10 ms    16 ms     9 ms  96.120.73.177 
+  3    11 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms    11 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    12 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7    13 ms    14 ms    13 ms  ae-2-3601.ear3.NewYork1.Level3.net [4.69.150.206] 
+  8    12 ms    13 ms    12 ms  4.7.6.206 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11    77 ms    77 ms    78 ms  ae4---0.scr01.lsan.ca.frontiernet.net [74.40.5.178] 
+ 12    99 ms    95 ms    95 ms  ae11---0.cor02.plal.ca.frontiernet.net [74.40.3.185] 
+ 13    94 ms    96 ms    94 ms  74.40.1.90 
+ 14    90 ms    90 ms    88 ms  ae0---0.adr01.plcd.ca.frontiernet.net [74.42.151.62] 
+ 15    98 ms    98 ms   101 ms  static-74-41-61-181.dsl1.pco.ca.frontiernet.net [74.41.61.181] 
+
+Trace complete.
+--------------- 
+97.74.80.7, Scottsdale (33.6013, -111.8867) 
+Time:  1:14:51.73 
+
+Pinging 97.74.80.7 with 32 bytes of data:
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=67ms TTL=54
+Reply from 97.74.80.7: bytes=32 time=66ms TTL=54
+
+Ping statistics for 97.74.80.7:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 66ms, Maximum = 67ms, Average = 66ms
+
+Tracing route to ip-97-74-80-7.ip.secureserver.net [97.74.80.7]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms    10 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *       17 ms    16 ms  ae-1-11.bear2.Washington111.Level3.net [4.69.210.178] 
+  8    16 ms    17 ms    15 ms  4.14.98.38 
+  9    67 ms    67 ms    67 ms  ip-97-74-253-94.ip.secureserver.net [97.74.253.94] 
+ 10    66 ms    67 ms    67 ms  ip-97-74-253-94.ip.secureserver.net [97.74.253.94] 
+ 11    66 ms    66 ms    66 ms  ip-208-109-113-170.ip.secureserver.net [208.109.113.170] 
+ 12    67 ms    66 ms    66 ms  ip-97-74-80-7.ip.secureserver.net [97.74.80.7] 
+
+Trace complete.
+--------------- 
+65.111.169.159, Fort Lauderdale (26.1216, -80.1288) 
+Time:  1:14:51.73 
+
+Pinging 65.111.169.159 with 32 bytes of data:
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=42ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=58ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=42ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+Reply from 65.111.169.159: bytes=32 time=41ms TTL=47
+
+Ping statistics for 65.111.169.159:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 41ms, Maximum = 58ms, Average = 42ms
+
+Tracing route to rolllasted.com [65.111.169.159]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms    10 ms    10 ms  96.108.142.197 
+  5     9 ms     9 ms     8 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *       40 ms    40 ms  ae-2-52.ear2.Miami1.Level3.net [4.69.207.25] 
+  8    41 ms    41 ms    41 ms  INFOLINK-GL.ear2.Miami1.Level3.net [4.59.90.90] 
+  9    41 ms    41 ms    41 ms  69.60.96.106 
+ 10    41 ms    42 ms    41 ms  rolllasted.com [65.111.169.159] 
+
+Trace complete.
+--------------- 
+192.221.158.0, NYC (40.7143, -74.0060) 
+Time:  1:14:51.73 
+
+Pinging 192.221.158.0 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.221.158.0:
+    Packets: Sent = 10, Received = 0, Lost = 10 (100% loss),
+
+Tracing route to cns2.NewYork1.Level3.net [192.221.158.0]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms     2 ms  192.168.0.1 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+--------------- 
+74.222.5.98, LA, (34.0584, -118.2780) 
+Time:  1:14:51.73 
+
+Pinging 74.222.5.98 with 32 bytes of data:
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=73ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+Reply from 74.222.5.98: bytes=32 time=72ms TTL=110
+
+Ping statistics for 74.222.5.98:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 72ms, Maximum = 73ms, Average = 72ms
+
+Tracing route to 74.222.5.98 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    11 ms  be-10381-pe02.111eighthave.ny.ibone.comcast.net [68.86.86.250] 
+  8    16 ms    11 ms    14 ms  50.242.151.70 
+  9    76 ms    77 ms    75 ms  ae-9.r07.nycmny01.us.bb.gin.ntt.net [129.250.3.93] 
+ 10    10 ms    10 ms    10 ms  ae-2.r25.nycmny01.us.bb.gin.ntt.net [129.250.3.97] 
+ 11    15 ms    15 ms    16 ms  ae-9.r22.asbnva02.us.bb.gin.ntt.net [129.250.2.149] 
+ 12    74 ms    75 ms    74 ms  ae-5.r23.lsanca07.us.bb.gin.ntt.net [129.250.3.189] 
+ 13    73 ms    73 ms    72 ms  ae-2.r01.lsanca07.us.bb.gin.ntt.net [129.250.4.107] 
+ 14    73 ms    72 ms    73 ms  ae-1.a00.lsanca07.us.bb.gin.ntt.net [129.250.2.116] 
+ 15    72 ms    72 ms    72 ms  xe-0-0-19-2.a00.lsanca07.us.ce.gin.ntt.net [129.250.203.30] 
+ 16    73 ms    73 ms    73 ms  70.36.122.29 
+ 17    73 ms    77 ms    87 ms  70.36.122.26 
+ 18    72 ms    73 ms    73 ms  74.222.5.98 
+
+Trace complete.
+--------------- 
+45.77.165.194, Miami, (25.8130, -80.2320) 
+Time:  1:14:51.73 
+
+Pinging 45.77.165.194 with 32 bytes of data:
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=42ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=36ms TTL=50
+Reply from 45.77.165.194: bytes=32 time=41ms TTL=50
+
+Ping statistics for 45.77.165.194:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 36ms, Maximum = 42ms, Average = 40ms
+
+Tracing route to accuracy.ns.fourthestate.co [45.77.165.194]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms    10 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     8 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    13 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    11 ms    12 ms  be-10203-cr01.newark.nj.ibone.comcast.net [68.86.85.185] 
+  8    17 ms    18 ms    17 ms  be-10102-cr02.ashburn.va.ibone.comcast.net [68.86.85.161] 
+  9    30 ms    30 ms    29 ms  be-10114-cr02.56marietta.ga.ibone.comcast.net [68.86.85.10] 
+ 10    43 ms    42 ms    43 ms  be-11422-cr02.miami.fl.ibone.comcast.net [68.86.84.154] 
+ 11    42 ms    40 ms    41 ms  be-12274-pe01.nota.fl.ibone.comcast.net [68.86.82.154] 
+ 12    42 ms    42 ms    42 ms  96-87-8-30-static.hfc.comcastbusiness.net [96.87.8.30] 
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15    41 ms    41 ms    41 ms  accuracy.ns.fourthestate.co [45.77.165.194] 
+
+Trace complete.
+--------------- 
+64.5.52.69, Dallas, (32.9322, -96.8353) 
+Time:  1:14:51.73 
+
+Pinging 64.5.52.69 with 32 bytes of data:
+Reply from 64.5.52.69: bytes=32 time=51ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=51ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+Reply from 64.5.52.69: bytes=32 time=50ms TTL=112
+
+Ping statistics for 64.5.52.69:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 51ms, Average = 50ms
+
+Tracing route to 45.34.0540.static.theplanet.com [64.5.52.69]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     8 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    10 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    10 ms    10 ms    10 ms  23.30.206.58 
+  9     *        *       11 ms  ae5.cbs02.tl01.nyc01.networklayer.com [50.97.17.42] 
+ 10    31 ms     *       31 ms  ae0.cbs01.eq01.chi01.networklayer.com [50.97.17.48] 
+ 11    52 ms    51 ms    51 ms  ae2.cbs02.dr01.dal04.networklayer.com [169.45.18.4] 
+ 12    52 ms    51 ms    52 ms  ae8.cbs02.eq01.dal03.networklayer.com [169.45.18.72] 
+ 13    52 ms    51 ms    50 ms  ae34.bbr02.eq01.dal03.networklayer.com [50.97.17.59] 
+ 14    50 ms    50 ms    61 ms  ae6.dar02.dal06.networklayer.com [50.97.19.9] 
+ 15    50 ms    51 ms    50 ms  po62.dsr02.dllstx2.networklayer.com [184.172.118.149] 
+ 16    50 ms    50 ms    50 ms  po2.car02.dllstx2.networklayer.com [70.87.254.86] 
+ 17    51 ms    50 ms    51 ms  45.34.0540.static.theplanet.com [64.5.52.69] 
+
+Trace complete.
+--------------- 
+204.27.57.39, Kansas City, (39.1052, -94.5699) 
+Time:  1:14:51.73 
+
+Pinging 204.27.57.39 with 32 bytes of data:
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=43ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=42ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+Reply from 204.27.57.39: bytes=32 time=41ms TTL=115
+
+Ping statistics for 204.27.57.39:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 41ms, Maximum = 43ms, Average = 41ms
+
+Tracing route to 204.27.57.39 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     9 ms  96.120.73.177 
+  3    10 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    19 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    41 ms    10 ms    11 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    11 ms  v1104.core1.nyc4.he.net [209.51.184.141] 
+  9    15 ms    15 ms    15 ms  100ge16-1.core1.ash1.he.net [184.105.223.165] 
+ 10    41 ms    40 ms    41 ms  100ge14-2.core1.mci3.he.net [72.52.92.54] 
+ 11    41 ms    41 ms    40 ms  joes-data-center-llc.10gigabitethernet3-8.core1.mci3.he.net [184.105.20.190] 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    41 ms    40 ms    41 ms  204.27.57.39 
+
+Trace complete.
+--------------- 
+173.0.52.114, Seattle, (47.4889, -122.3010) 
+Time:  1:14:51.73 
+
+Pinging 173.0.52.114 with 32 bytes of data:
+Reply from 173.0.52.114: bytes=32 time=74ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=75ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=75ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=75ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=74ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=76ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=77ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=74ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=74ms TTL=47
+Reply from 173.0.52.114: bytes=32 time=74ms TTL=47
+
+Ping statistics for 173.0.52.114:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 74ms, Maximum = 77ms, Average = 74ms
+
+Tracing route to 173.0.52.114 over a maximum of 30 hops
+
+  1     1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     8 ms     9 ms  96.120.73.177 
+  3    15 ms    14 ms    20 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     8 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    10 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    14 ms    10 ms    10 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9    78 ms    74 ms    74 ms  nyk-bb3-link.telia.net [62.115.115.0] 
+ 10    28 ms    28 ms    28 ms  chi-b21-link.telia.net [80.91.246.162] 
+ 11    73 ms    74 ms    73 ms  sea-b2-link.telia.net [62.115.117.48] 
+ 12    74 ms    74 ms    74 ms  serverhub-ic-333262-sea-b2.c.telia.net [62.115.161.3] 
+ 13    74 ms    74 ms    73 ms  216.244.88.47 
+ 14    74 ms    74 ms    74 ms  216.244.88.49 
+ 15    75 ms    75 ms    74 ms  ae3-0.br2.igw.sea.wowrack.net [216.244.88.170] 
+ 16    75 ms    74 ms    74 ms  p13.ss-core0.sea.wowrack.net [216.244.88.158] 
+ 17     *      864 ms     *     216.244.86.186 
+ 18    75 ms    75 ms    75 ms  173.0.52.114 
+
+Trace complete.
+--------------- 
+72.18.139.227, Denver, (39.7491, -104.9950) 
+Time:  1:14:51.73 
+
+Pinging 72.18.139.227 with 32 bytes of data:
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=55ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=54ms TTL=115
+Reply from 72.18.139.227: bytes=32 time=55ms TTL=115
+
+Ping statistics for 72.18.139.227:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 54ms, Maximum = 55ms, Average = 54ms
+
+Tracing route to 72.18.139.227 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3    12 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5    10 ms    10 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    14 ms    11 ms    14 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    11 ms    11 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    10 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    11 ms    11 ms    10 ms  be3496.ccr42.jfk02.atlas.cogentco.com [154.54.0.141] 
+ 10    26 ms    25 ms    26 ms  be2890.ccr22.cle04.atlas.cogentco.com [154.54.82.245] 
+ 11    72 ms   130 ms    38 ms  be2718.ccr42.ord01.atlas.cogentco.com [154.54.7.129] 
+ 12    49 ms    49 ms    48 ms  be2832.ccr22.mci01.atlas.cogentco.com [154.54.44.169] 
+ 13    53 ms    52 ms    53 ms  be3036.ccr22.den01.atlas.cogentco.com [154.54.31.89] 
+ 14    53 ms    53 ms    53 ms  be2202.agr12.den01.atlas.cogentco.com [154.54.6.34] 
+ 15    54 ms    54 ms    53 ms  te0-0-1-3.nr11.b028469-0.den01.atlas.cogentco.com [154.24.57.246] 
+ 16    58 ms    53 ms    57 ms  38.142.162.42 
+ 17    67 ms    96 ms    78 ms  ae46-16.dist3.denver2.handynetworks.com [68.71.128.66] 
+ 18    54 ms    54 ms    54 ms  72.18.139.227 
+
+Trace complete.
+--------------- 
+67.205.246.138, Philadelphia (39.9597, -75.2024) 
+Time:  1:14:51.73 
+
+Pinging 67.205.246.138 with 32 bytes of data:
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=17ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+Reply from 67.205.246.138: bytes=32 time=13ms TTL=50
+
+Ping statistics for 67.205.246.138:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 13ms, Maximum = 17ms, Average = 13ms
+
+Tracing route to 67.205.246.138 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3     9 ms     8 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms   123 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    11 ms    13 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    11 ms    11 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    11 ms    11 ms    10 ms  be3496.ccr42.jfk02.atlas.cogentco.com [154.54.0.141] 
+ 10    13 ms    13 ms    13 ms  be2333.rcr22.phl01.atlas.cogentco.com [154.54.5.2] 
+ 11    14 ms    14 ms    14 ms  be3164.rcr21.phl03.atlas.cogentco.com [154.54.25.142] 
+ 12    14 ms    13 ms    13 ms  38.140.149.34 
+ 13    14 ms    13 ms    14 ms  72.13.143.65 
+ 14    14 ms    14 ms    24 ms  72.13.143.65 
+ 15    15 ms    13 ms    13 ms  67.205.246.138 
+
+Trace complete.
+--------------- 
+192.190.112.26, Aurora (39.6012, -104.7394) 
+Time:  1:14:51.73 
+
+Pinging 192.190.112.26 with 32 bytes of data:
+Reply from 192.190.112.26: bytes=32 time=53ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=51ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=53ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=52ms TTL=51
+Reply from 192.190.112.26: bytes=32 time=51ms TTL=51
+
+Ping statistics for 192.190.112.26:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 51ms, Maximum = 53ms, Average = 52ms
+
+Tracing route to 192.190.112.26 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3    10 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms   122 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms    11 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    10 ms    10 ms  75.149.231.14 
+  9    51 ms    51 ms    51 ms  hlr2-cntr-01.inet.qwest.net [205.171.18.214] 
+ 10    51 ms    54 ms   100 ms  66.77.157.10 
+ 11    51 ms    52 ms    52 ms  64.92.170.174 
+ 12     *        *        *     Request timed out.
+ 13    79 ms    70 ms    52 ms  192.190.112.26 
+
+Trace complete.
+--------------- 
+192.221.138.0, Chicago (41.8483, -87.6517) 
+Time:  1:14:51.73 
+
+Pinging 192.221.138.0 with 32 bytes of data:
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+Request timed out.
+
+Ping statistics for 192.221.138.0:
+    Packets: Sent = 10, Received = 0, Lost = 10 (100% loss),
+
+Tracing route to cns2.Chicago2.Level3.net [192.221.138.0]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     *        *        *     Request timed out.
+  3     *        *        *     Request timed out.
+  4     *        *        *     Request timed out.
+  5     *        *        *     Request timed out.
+  6     *        *        *     Request timed out.
+  7     *        *        *     Request timed out.
+  8     *        *        *     Request timed out.
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14     *        *        *     Request timed out.
+ 15     *        *        *     Request timed out.
+ 16     *        *        *     Request timed out.
+ 17     *        *        *     Request timed out.
+ 18     *        *        *     Request timed out.
+ 19     *        *        *     Request timed out.
+ 20     *        *        *     Request timed out.
+ 21     *        *        *     Request timed out.
+ 22     *        *        *     Request timed out.
+ 23     *        *        *     Request timed out.
+ 24     *        *        *     Request timed out.
+ 25     *        *        *     Request timed out.
+ 26     *        *        *     Request timed out.
+ 27     *        *        *     Request timed out.
+ 28     *        *        *     Request timed out.
+ 29     *        *        *     Request timed out.
+ 30     *        *        *     Request timed out.
+
+Trace complete.
+--------------- 
+142.103.1.1, Vancouver (49.2658, -123.2566) 
+Time:  1:14:51.73 
+
+Pinging 142.103.1.1 with 32 bytes of data:
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=75ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=73ms TTL=46
+Reply from 142.103.1.1: bytes=32 time=74ms TTL=46
+
+Ping statistics for 142.103.1.1:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 73ms, Maximum = 75ms, Average = 74ms
+
+Tracing route to dns3.ubc.ca [142.103.1.1]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    11 ms    12 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    14 ms  v1104.core1.nyc4.he.net [209.51.184.141] 
+  9    34 ms   288 ms    29 ms  100ge14-1.core1.tor1.he.net [184.105.80.10] 
+ 10    43 ms    46 ms    43 ms  100ge6-1.core1.ywg1.he.net [184.105.64.102] 
+ 11    73 ms    74 ms    73 ms  100ge10-1.core1.yyc1.he.net [184.105.222.98] 
+ 12    73 ms    74 ms    73 ms  100ge14-2.core1.yvr1.he.net [184.105.64.113] 
+ 13    74 ms    73 ms    75 ms  bcnet.10gigabitethernet1-4.core1.yvr1.he.net [184.105.148.150] 
+ 14    74 ms    74 ms    74 ms  347-tx-ubcab-cr1.vncv1.bc.net [134.87.30.153] 
+ 15    75 ms    74 ms    73 ms  137.82.88.122 
+ 16   122 ms   140 ms    73 ms  a21-a0.net.ubc.ca [137.82.123.65] 
+ 17     *        *        *     Request timed out.
+ 18    74 ms    74 ms    74 ms  dns3.ubc.ca [142.103.1.1] 
+
+Trace complete.
+--------------- 
+142.46.1.130, Brampton (43.6534, -79.3827) 
+Time:  1:14:51.73 
+
+Pinging 142.46.1.130 with 32 bytes of data:
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=36ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=34ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=36ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=34ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+Reply from 142.46.1.130: bytes=32 time=35ms TTL=53
+
+Ping statistics for 142.46.1.130:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 36ms, Average = 35ms
+
+Tracing route to hotdns1.hydroonetelecom.com [142.46.1.130]
+over a maximum of 30 hops:
+
+  1   103 ms    <1 ms    <1 ms  192.168.0.1 
+  2    13 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     8 ms  96.108.142.197 
+  5     9 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    12 ms    10 ms    10 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    10 ms    12 ms    10 ms  be3495.ccr41.jfk02.atlas.cogentco.com [66.28.4.181] 
+ 10    23 ms    23 ms    23 ms  be2889.ccr21.cle04.atlas.cogentco.com [154.54.47.49] 
+ 11    33 ms    32 ms    33 ms  be2993.ccr31.yyz02.atlas.cogentco.com [154.54.31.226] 
+ 12    35 ms    36 ms    36 ms  38.104.159.242 
+ 13    36 ms    35 ms    35 ms  hotdns1.hydroonetelecom.com [142.46.1.130] 
+
+Trace complete.
+--------------- 
+216.254.141.2, Mississauga (43.7001, -79.4163) 
+Time:  1:14:51.73 
+
+Pinging 216.254.141.2 with 32 bytes of data:
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=37ms TTL=243
+Reply from 216.254.141.2: bytes=32 time=38ms TTL=243
+
+Ping statistics for 216.254.141.2:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 38ms, Average = 37ms
+
+Tracing route to tor-dns-recursive.primus.ca [216.254.141.2]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3    84 ms    10 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4   121 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms    10 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    11 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    10 ms    10 ms    10 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9    33 ms    32 ms    32 ms  nyk-bb4-link.telia.net [80.91.254.15] 
+ 10    29 ms    28 ms    28 ms  chi-b21-link.telia.net [62.115.137.59] 
+ 11    38 ms    38 ms    38 ms  toro-b1-link.telia.net [62.115.118.231] 
+ 12    38 ms    39 ms    38 ms  primus-ic-319046-toro-b1.c.telia.net [213.248.88.47] 
+ 13     *        *        *     Request timed out.
+ 14    38 ms    39 ms    39 ms  tor-dns-recursive.primus.ca [216.254.141.2] 
+
+Trace complete.
+--------------- 
+64.40.249.225, Newmarket (44.0565, -79.4555) 
+Time:  1:14:51.73 
+
+Pinging 64.40.249.225 with 32 bytes of data:
+Reply from 64.40.249.225: bytes=32 time=43ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=48ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=50ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=42ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=43ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=42ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=43ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=42ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=44ms TTL=46
+Reply from 64.40.249.225: bytes=32 time=49ms TTL=46
+
+Ping statistics for 64.40.249.225:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 42ms, Maximum = 50ms, Average = 44ms
+
+Tracing route to broadband-net249-ip225.ica.net [64.40.249.225]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4   121 ms    10 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    38 ms    10 ms     9 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7    25 ms    25 ms    26 ms  4.69.216.246 
+  8    27 ms    26 ms    26 ms  COGECO-DATA.bar2.Toronto1.Level3.net [4.28.138.6] 
+  9    33 ms    32 ms    31 ms  66.199.34.59 
+ 10    30 ms    30 ms    30 ms  66.199.34.59 
+ 11    31 ms    31 ms    30 ms  69.77.176.90 
+ 12    31 ms    30 ms    31 ms  wlro2-to-core1.ica.net [209.151.129.217] 
+ 13    32 ms    32 ms    34 ms  bra-core.ica.net [209.151.129.99] 
+ 14    41 ms    40 ms    42 ms  broadband-net249-ip225.ica.net [64.40.249.225] 
+
+Trace complete.
+--------------- 
+66.18.240.194, Calgary (51.0497, -113.1394) 
+Time:  1:14:51.73 
+
+Pinging 66.18.240.194 with 32 bytes of data:
+Reply from 66.18.240.194: bytes=32 time=71ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=73ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=73ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=69ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=74ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=74ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=73ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=73ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=73ms TTL=48
+Reply from 66.18.240.194: bytes=32 time=75ms TTL=48
+
+Ping statistics for 66.18.240.194:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 69ms, Maximum = 75ms, Average = 72ms
+
+Tracing route to hw1-sb-66-18-240-194.nucleus.com [66.18.240.194]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5    10 ms    11 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    11 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    11 ms  v1104.core1.nyc4.he.net [209.51.184.141] 
+  9    49 ms    29 ms    31 ms  100ge14-1.core1.tor1.he.net [184.105.80.10] 
+ 10    49 ms    42 ms    43 ms  100ge6-1.core1.ywg1.he.net [184.105.64.102] 
+ 11    74 ms    74 ms    73 ms  100ge10-1.core1.yyc1.he.net [184.105.222.98] 
+ 12    78 ms    82 ms    73 ms  nucleus-inc.gigabitethernet2-24.core1.yyc1.he.net [216.218.224.114] 
+ 13     *        *        *     Request timed out.
+ 14    73 ms    73 ms    73 ms  hw1-sb-66-18-240-194.nucleus.com [66.18.240.194] 
+
+Trace complete.
+--------------- 
+208.88.110.58, Quebec (45.5000, -73.5833) 
+Time:  1:14:51.73 
+
+Pinging 208.88.110.58 with 32 bytes of data:
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=18ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=20ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=18ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=19ms TTL=48
+Reply from 208.88.110.58: bytes=32 time=20ms TTL=48
+
+Ping statistics for 208.88.110.58:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 18ms, Maximum = 20ms, Average = 19ms
+
+Tracing route to pbx3.telecodex.com [208.88.110.58]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms    10 ms     9 ms  96.108.142.197 
+  5     9 ms    11 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    11 ms    11 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7    20 ms    20 ms     *     ae-2-12.bear1.Montreal2.Level3.net [4.69.203.129] 
+  8    19 ms    19 ms    18 ms  te0-7-0-0.asr01.mtlsunl.fibrenoire.ca [4.59.178.46] 
+  9    20 ms    19 ms    23 ms  pbx3.telecodex.com [208.88.110.58] 
+
+Trace complete.
+--------------- 
+199.71.52.26, Greater Sudbury (46.5133, -81.0225) 
+Time:  1:14:51.73 
+
+Pinging 199.71.52.26 with 32 bytes of data:
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=35ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=35ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=35ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=35ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+Reply from 199.71.52.26: bytes=32 time=34ms TTL=111
+
+Ping statistics for 199.71.52.26:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 35ms, Average = 34ms
+
+Tracing route to olsnweb.olsn.ca [199.71.52.26]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3    11 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    14 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms    10 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    18 ms    10 ms     9 ms  ae20.cr2-nyc6.ip4.gtt.net [173.205.52.233] 
+  9    31 ms    30 ms    30 ms  xe-5-2-7.cr0-tor1.ip4.gtt.net [213.200.115.121] 
+ 10    36 ms    35 ms    35 ms  agilis-networks-gw.ip4.gtt.net [77.67.79.35] 
+ 11    31 ms    31 ms    31 ms  216.223.111.37 
+ 12    34 ms    35 ms    35 ms  216.223.91.162 
+ 13    35 ms    35 ms    38 ms  olsnweb.olsn.ca [199.71.52.26] 
+
+Trace complete.
+--------------- 
+209.29.150.135, Toronto (43.6496, -79.3833) 
+Time:  1:14:51.73 
+
+Pinging 209.29.150.135 with 32 bytes of data:
+Reply from 209.29.150.135: bytes=32 time=28ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=24ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=24ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=22ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=22ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=22ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=23ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=22ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=23ms TTL=53
+Reply from 209.29.150.135: bytes=32 time=22ms TTL=53
+
+Ping statistics for 209.29.150.135:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 22ms, Maximum = 28ms, Average = 23ms
+
+Tracing route to ns1.mynetkeepers.ca [209.29.150.135]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms    10 ms  96.108.142.197 
+  5    10 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    13 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms     9 ms    10 ms  plalca01gr00.bb.telus.com [154.11.3.137] 
+  9     *        *        *     Request timed out.
+ 10    23 ms    22 ms    27 ms  207.34.253.144 
+ 11    22 ms    22 ms    22 ms  209.29.203.66 
+ 12    23 ms    22 ms    23 ms  ns1.mynetkeepers.ca [209.29.150.135] 
+
+Trace complete.
+--------------- 
+142.165.14.51, Moose Jaw (50.3895, -105.5578) 
+Time:  1:14:51.73 
+
+Pinging 142.165.14.51 with 32 bytes of data:
+Reply from 142.165.14.51: bytes=32 time=54ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=56ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=55ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=55ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=54ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=56ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=55ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=54ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=53ms TTL=242
+Reply from 142.165.14.51: bytes=32 time=55ms TTL=242
+
+Ping statistics for 142.165.14.51:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 53ms, Maximum = 56ms, Average = 54ms
+
+Tracing route to 142-165-14-51.msjw.static.sasknet.sk.ca [142.165.14.51]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms    18 ms    20 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms    10 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    19 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    10 ms  as577.111eighthave.ny.ibone.comcast.net [173.167.56.110] 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    64 ms    64 ms    64 ms  69.156.254.174 
+ 15    67 ms    69 ms    70 ms  142.165.60.169 
+ 16     *        *        *     Request timed out.
+ 17    53 ms    53 ms    53 ms  207-47-195-177.ngai.static.sasknet.sk.ca [207.47.195.177] 
+ 18    67 ms    56 ms    53 ms  142-165-14-51.msjw.static.sasknet.sk.ca [142.165.14.51] 
+
+Trace complete.
+--------------- 
+207.35.8.166, Pickering (43.8479, -79.3288) 
+Time:  1:14:51.73 
+
+Pinging 207.35.8.166 with 32 bytes of data:
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=38ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=38ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=38ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=37ms TTL=52
+Reply from 207.35.8.166: bytes=32 time=122ms TTL=52
+
+Ping statistics for 207.35.8.166:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 37ms, Maximum = 122ms, Average = 45ms
+
+Tracing route to 207.35.8.166 over a maximum of 30 hops
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     9 ms  96.120.73.177 
+  3    19 ms    20 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    11 ms    11 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    10 ms  as577.111eighthave.ny.ibone.comcast.net [173.167.56.110] 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13    37 ms    38 ms    39 ms  207.35.8.166 
+
+Trace complete.
+--------------- 
+64.141.6.254, Victoria (50.0769, -125.5909) 
+Time:  1:14:51.73 
+
+Pinging 64.141.6.254 with 32 bytes of data:
+Reply from 64.141.6.254: bytes=32 time=94ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=92ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=92ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=94ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=93ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=93ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=92ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=93ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=92ms TTL=48
+Reply from 64.141.6.254: bytes=32 time=93ms TTL=48
+
+Ping statistics for 64.141.6.254:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 92ms, Maximum = 94ms, Average = 92ms
+
+Tracing route to h64-141-4-254.bigpipeinc.com [64.141.6.254]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms    10 ms     8 ms  96.120.73.177 
+  3     8 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     8 ms  96.108.142.197 
+  5     9 ms     8 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    10 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    31 ms    31 ms    30 ms  be-10305-cr02.350ecermak.il.ibone.comcast.net [68.86.85.202] 
+  8    52 ms    52 ms    54 ms  be-10521-cr02.1601milehigh.co.ibone.comcast.net [68.86.85.170] 
+  9    55 ms    55 ms    54 ms  be-12021-cr01.champa.co.ibone.comcast.net [68.86.84.225] 
+ 10    78 ms    80 ms    77 ms  be-11020-cr02.sunnyvale.ca.ibone.comcast.net [68.86.84.9] 
+ 11    80 ms    80 ms    77 ms  be-11025-cr01.9greatoaks.ca.ibone.comcast.net [68.86.87.158] 
+ 12   233 ms   162 ms   162 ms  be-12544-pe01.9greatoaks.ca.ibone.comcast.net [68.86.87.150] 
+ 13    80 ms    79 ms    79 ms  75.149.229.62 
+ 14    81 ms    79 ms    79 ms  rc3sj-tge0-0-0-0.cl.shawcable.net [66.163.67.81] 
+ 15   104 ms    87 ms    86 ms  rc1wt-be60.wa.shawcable.net [66.163.75.89] 
+ 16    90 ms    90 ms    89 ms  rd2cv-be10.gv.shawcable.net [66.163.68.17] 
+ 17    91 ms    89 ms    91 ms  rd1cv-tge0-4-0-0.gv.shawcable.net [66.163.72.21] 
+ 18    90 ms    89 ms    91 ms  rd1bb-tge0-0-3-0.no.shawcable.net [66.163.72.6] 
+ 19    93 ms    93 ms    93 ms  h64-141-4-254.bigpipeinc.com [64.141.6.254] 
+
+Trace complete.
+--------------- 
+216.238.224.143, Caroline (51.1264, -114.1419) 
+Time:  1:14:51.73 
+
+Pinging 216.238.224.143 with 32 bytes of data:
+Reply from 216.238.224.143: bytes=32 time=85ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=86ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=85ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=85ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=85ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=85ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=86ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=86ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=86ms TTL=112
+Reply from 216.238.224.143: bytes=32 time=87ms TTL=112
+
+Ping statistics for 216.238.224.143:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 85ms, Maximum = 87ms, Average = 85ms
+
+Tracing route to ns10.cciwireless.ca [216.238.224.143]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3    10 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5    10 ms    10 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    13 ms    11 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    32 ms    31 ms    31 ms  be-10305-cr02.350ecermak.il.ibone.comcast.net [68.86.85.202] 
+  8    31 ms    30 ms    30 ms  be-10563-pe01.350ecermak.il.ibone.comcast.net [68.86.82.158] 
+  9    30 ms    29 ms    29 ms  as852-pe01.350ecermak.il.ibone.comcast.net [75.149.228.226] 
+ 10     *        *        *     Request timed out.
+ 11    85 ms    86 ms    85 ms  206.75.133.38 
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    85 ms    86 ms    86 ms  ns10.cciwireless.ca [216.238.224.143] 
+
+Trace complete.
+--------------- 
+142.165.132.126, Radisson (52.0111, -106.7955) 
+Time:  1:14:51.73 
+
+Pinging 142.165.132.126 with 32 bytes of data:
+Reply from 142.165.132.126: bytes=32 time=159ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=87ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=87ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=88ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=86ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=87ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=97ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=88ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=89ms TTL=238
+Reply from 142.165.132.126: bytes=32 time=88ms TTL=238
+
+Ping statistics for 142.165.132.126:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 86ms, Maximum = 159ms, Average = 95ms
+
+Tracing route to 142-165-132-126.sktn.static.sasknet.sk.ca [142.165.132.126]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms    10 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms    10 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    13 ms    12 ms    11 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    17 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    11 ms    10 ms  as577.111eighthave.ny.ibone.comcast.net [173.167.56.110] 
+  9     *        *        *     Request timed out.
+ 10     *        *        *     Request timed out.
+ 11     *        *        *     Request timed out.
+ 12     *        *        *     Request timed out.
+ 13     *        *        *     Request timed out.
+ 14    66 ms    65 ms    66 ms  69.156.254.174 
+ 15    54 ms    55 ms    55 ms  142.165.60.165 
+ 16    59 ms    64 ms    62 ms  142.165.60.130 
+ 17     *        *        *     Request timed out.
+ 18    87 ms    88 ms    87 ms  142-165-132-126.sktn.static.sasknet.sk.ca [142.165.132.126] 
+
+Trace complete.
+--------------- 
+216.171.252.54, Aledo (32.7004, -97.6039) 
+Time:  1:14:51.73 
+
+Pinging 216.171.252.54 with 32 bytes of data:
+Reply from 216.171.252.54: bytes=32 time=62ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=62ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=63ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=60ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=50ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=60ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=55ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=60ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=74ms TTL=43
+Reply from 216.171.252.54: bytes=32 time=51ms TTL=43
+
+Ping statistics for 216.171.252.54:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 74ms, Average = 59ms
+
+Tracing route to 54-252-171-216.aledobroadband.com [216.171.252.54]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    49 ms    50 ms    49 ms  BELWAVE.ear3.Dallas1.Level3.net [4.34.191.198] 
+  9    49 ms    49 ms    48 ms  sfpp5.upr.rtr.belwave.net [216.195.96.93] 
+ 10   207 ms   162 ms   163 ms  b1.dist.upr.rtr.belwave.net [216.195.96.50] 
+ 11    50 ms    49 ms    48 ms  54-96-195-216.belwave.net [216.195.96.54] 
+ 12    49 ms    49 ms    49 ms  10-246-171-216.belwave.net [216.171.246.10] 
+ 13    49 ms    50 ms    50 ms  142-252-171-216.aledobroadband.com [216.171.252.142] 
+ 14    67 ms    51 ms    52 ms  146-252-171-216.aledobroadband.com [216.171.252.146] 
+ 15    51 ms    53 ms    51 ms  54-252-171-216.aledobroadband.com [216.171.252.54] 
+
+Trace complete.
+--------------- 
+216.155.123.34, Gainesville (29.6489, -82.325) 
+Time:  1:14:51.73 
+
+Pinging 216.155.123.34 with 32 bytes of data:
+Reply from 216.155.123.34: bytes=32 time=43ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=45ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=42ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=42ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=42ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=42ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=44ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=42ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=45ms TTL=113
+Reply from 216.155.123.34: bytes=32 time=45ms TTL=113
+
+Ping statistics for 216.155.123.34:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 42ms, Maximum = 45ms, Average = 43ms
+
+Tracing route to sahure.acceleration.net [216.155.123.34]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms    10 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    13 ms    14 ms    13 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    14 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    11 ms    10 ms    17 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9    43 ms    41 ms    43 ms  nyk-bb3-link.telia.net [62.115.115.0] 
+ 10   122 ms    22 ms    18 ms  ash-bb3-link.telia.net [62.115.141.244] 
+ 11    46 ms    45 ms    42 ms  mai-b1-link.telia.net [62.115.119.231] 
+ 12    42 ms    44 ms    42 ms  snappy-ic-327349-mai-b1.c.telia.net [80.239.196.121] 
+ 13    63 ms   239 ms   259 ms  216.155.100.209 
+ 14    44 ms    42 ms    42 ms  sahure.acceleration.net [216.155.123.34] 
+
+Trace complete.
+--------------- 
+50.48.30.41, Rochester (43.0834, -77.6344) 
+Time:  1:14:51.73 
+
+Pinging 50.48.30.41 with 32 bytes of data:
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=145ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=33ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=34ms TTL=47
+Reply from 50.48.30.41: bytes=32 time=35ms TTL=47
+
+Ping statistics for 50.48.30.41:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 33ms, Maximum = 145ms, Average = 45ms
+
+Tracing route to 50.48.30.41 over a maximum of 30 hops
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3    12 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5     9 ms    14 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    11 ms    14 ms    12 ms  4.7.6.206 
+  9     *        *        *     Request timed out.
+ 10    26 ms    21 ms    18 ms  ae6---0.cor01.nycm.ny.frontiernet.net [74.40.3.181] 
+ 11    19 ms    19 ms    19 ms  ae4---0.cor01.roch.ny.frontiernet.net [74.40.5.13] 
+ 12    20 ms    20 ms    19 ms  ae0---0.car04.roch.ny.frontiernet.net [74.40.1.206] 
+ 13    19 ms    18 ms    19 ms  74.40.71.26 
+ 14    34 ms    34 ms    37 ms  50.48.30.41 
+
+Trace complete.
+--------------- 
+64.79.224.2, Birmingham (33.521, -86.8066) 
+Time:  1:14:51.73 
+
+Pinging 64.79.224.2 with 32 bytes of data:
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=40ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=40ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=40ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.2: bytes=32 time=39ms TTL=54
+
+Ping statistics for 64.79.224.2:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 39ms, Maximum = 40ms, Average = 39ms
+
+Tracing route to ns1.venturenet.net [64.79.224.2]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    14 ms     9 ms     9 ms  96.108.142.197 
+  5   127 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    39 ms    39 ms    39 ms  BODNAR-GROU.ear3.Atlanta2.Level3.net [4.14.28.214] 
+  9    44 ms    56 ms    58 ms  66.182.190.5 
+ 10    39 ms    39 ms    40 ms  66.182.137.162 
+ 11    39 ms    39 ms    39 ms  ns1.venturenet.net [64.79.224.2] 
+
+Trace complete.
+--------------- 
+50.44.20.30, Forreston (41.9295, -88.7504) 
+Time:  1:14:51.73 
+
+Pinging 50.44.20.30 with 32 bytes of data:
+Reply from 50.44.20.30: bytes=32 time=43ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=42ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=45ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=44ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=44ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=44ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=43ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=44ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=39ms TTL=52
+Reply from 50.44.20.30: bytes=32 time=42ms TTL=52
+
+Ping statistics for 50.44.20.30:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 39ms, Maximum = 45ms, Average = 43ms
+
+Tracing route to static-50-44-20-30.dklb.il.frontiernet.net [50.44.20.30]
+over a maximum of 30 hops:
+
+  1    <1 ms     1 ms     1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    35 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *       13 ms    13 ms  ae-2-3601.ear3.NewYork1.Level3.net [4.69.150.206] 
+  8   100 ms    15 ms   128 ms  4.7.6.206 
+  9     *        *        *     Request timed out.
+ 10    39 ms    37 ms    38 ms  ae5---0.cor02.nycm.ny.frontiernet.net [74.40.4.133] 
+ 11    39 ms    39 ms    37 ms  ae11---0.cor02.asbn.va.frontiernet.net [74.40.5.234] 
+ 12    40 ms    38 ms    40 ms  ae1---0.cor02.chcg.il.frontiernet.net [74.40.2.193] 
+ 13    39 ms    38 ms    38 ms  ae0---0.car01.dklb.il.frontiernet.net [74.40.2.1] 
+ 14    37 ms    37 ms    38 ms  ae0---0.adr01.dklb.il.frontiernet.net [74.40.70.26] 
+ 15    43 ms    42 ms    42 ms  static-50-44-20-30.dklb.il.frontiernet.net [50.44.20.30] 
+
+Trace complete.
+--------------- 
+198.15.67.245, Tempe (33.6227, -111.9261) 
+Time:  1:14:51.73 
+
+Pinging 198.15.67.245 with 32 bytes of data:
+Reply from 198.15.67.245: bytes=32 time=80ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=81ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=81ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+Reply from 198.15.67.245: bytes=32 time=79ms TTL=112
+
+Ping statistics for 198.15.67.245:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 79ms, Maximum = 81ms, Average = 79ms
+
+Tracing route to 198.15.67.245 over a maximum of 30 hops
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2    10 ms     9 ms     8 ms  96.120.73.177 
+  3    60 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms   119 ms    10 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    14 ms    13 ms    12 ms  be-10203-cr01.newark.nj.ibone.comcast.net [68.86.85.185] 
+  8    17 ms    16 ms    16 ms  be-10102-cr02.ashburn.va.ibone.comcast.net [68.86.85.161] 
+  9    30 ms    30 ms    30 ms  be-10114-cr02.56marietta.ga.ibone.comcast.net [68.86.85.10] 
+ 10    43 ms    42 ms    42 ms  be-11423-cr01.houston.tx.ibone.comcast.net [68.86.85.22] 
+ 11    70 ms    71 ms    71 ms  be-11523-cr02.losangeles.ca.ibone.comcast.net [68.86.87.173] 
+ 12    70 ms    70 ms    70 ms  be-11587-pe02.600wseventh.ca.ibone.comcast.net [68.86.83.18] 
+ 13    69 ms    69 ms    70 ms  66.208.232.86 
+ 14    80 ms    80 ms    80 ms  vl3.bb2.pnap.140.1.6.phx0.cwie.net [98.143.32.66] 
+ 15    86 ms    79 ms    81 ms  108.170.0.21 
+ 16     *        *        *     Request timed out.
+ 17    79 ms    80 ms    79 ms  198.15.67.245 
+
+Trace complete.
+--------------- 
+66.187.166.250, Monroe (34.8946, -80.5540) 
+Time:  1:14:51.73 
+
+Pinging 66.187.166.250 with 32 bytes of data:
+Reply from 66.187.166.250: bytes=32 time=38ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=34ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=34ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=37ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=35ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=36ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=36ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=49ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=43ms TTL=47
+Reply from 66.187.166.250: bytes=32 time=55ms TTL=47
+
+Ping statistics for 66.187.166.250:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 34ms, Maximum = 55ms, Average = 39ms
+
+Tracing route to 250.166.187.66.static.Dasia.Net [66.187.166.250]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms    15 ms     9 ms  96.108.142.197 
+  5     9 ms    13 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    33 ms    33 ms    33 ms  CHARLOTTE-C.ear1.Atlanta2.Level3.net [4.14.252.206] 
+  9    34 ms    33 ms    33 ms  16.96.249.216.static.CharlotteColo.com [216.249.96.16] 
+ 10    34 ms    33 ms    33 ms  DW.CHLT.BoA.R001.0/2.Dasia.Net [66.187.160.109] 
+ 11    34 ms    34 ms    34 ms  DW.CHLT.BOA.R002.G12.Dasia.Net [66.187.161.22] 
+ 12    82 ms   126 ms    43 ms  DW.MON.UCGOV.R000.1.190.Dasia.Net [66.187.160.66] 
+ 13    65 ms   121 ms   162 ms  250.166.187.66.static.Dasia.Net [66.187.166.250] 
+
+Trace complete.
+--------------- 
+24.229.11.2, Stroudsburg (40.9877, -75.2485) 
+Time:  1:14:51.73 
+
+Pinging 24.229.11.2 with 32 bytes of data:
+Reply from 24.229.11.2: bytes=32 time=62ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=58ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=58ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=57ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=58ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=58ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=59ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=61ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=58ms TTL=52
+Reply from 24.229.11.2: bytes=32 time=56ms TTL=52
+
+Ping statistics for 24.229.11.2:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 56ms, Maximum = 62ms, Average = 58ms
+
+Tracing route to cpe-static-monroecountycourtadmin-rtr.cmts.sth3.ptd.net [24.229.11.2]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms    10 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms     9 ms    11 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7    32 ms     *        *     4.69.142.145 
+  8    33 ms    33 ms    33 ms  4.28.70.86 
+  9    50 ms    51 ms    50 ms  gateway2-be5-str22sm.str.ptd.net [207.44.121.189] 
+ 10    51 ms    53 ms    52 ms  gateway2-PC2-sth2Blocal1.cmts.sth2.ptd.net [207.44.122.222] 
+ 11    59 ms    59 ms    57 ms  cpe-static-monroecountycourtadmin-rtr.cmts.sth3.ptd.net [24.229.11.2] 
+
+Trace complete.
+--------------- 
+216.52.65.1, Dover, (39.1605, -75.5974) 
+Time:  1:14:51.73 
+
+Pinging 216.52.65.1 with 32 bytes of data:
+Reply from 216.52.65.1: bytes=32 time=13ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=12ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=12ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=13ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=17ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=111ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=99ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=72ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=12ms TTL=52
+Reply from 216.52.65.1: bytes=32 time=13ms TTL=52
+
+Ping statistics for 216.52.65.1:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 111ms, Average = 37ms
+
+Tracing route to ns1.phi.pnap.net [216.52.65.1]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms    10 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     8 ms    16 ms    13 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    11 ms    11 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    11 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    10 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    10 ms    11 ms    10 ms  be3495.ccr41.jfk02.atlas.cogentco.com [66.28.4.181] 
+ 10    13 ms    13 ms    13 ms  be2364.rcr21.phl01.atlas.cogentco.com [154.54.3.142] 
+ 11    13 ms    14 ms    14 ms  be3163.rcr21.phl03.atlas.cogentco.com [154.54.7.2] 
+ 12    14 ms    14 ms    14 ms  te0-0-2-1.nr11.b003003-6.phl03.atlas.cogentco.com [154.24.9.110] 
+ 13    13 ms    14 ms    13 ms  38.140.148.146 
+ 14    14 ms    12 ms    12 ms  ns1.phi.pnap.net [216.52.65.1] 
+
+Trace complete.
+--------------- 
+216.52.126.1, Rockville, (39.0870, -77.1680) 
+Time:  1:14:51.73 
+
+Pinging 216.52.126.1 with 32 bytes of data:
+Reply from 216.52.126.1: bytes=32 time=17ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=16ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=15ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=16ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=16ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=15ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=15ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=15ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=16ms TTL=52
+Reply from 216.52.126.1: bytes=32 time=15ms TTL=52
+
+Ping statistics for 216.52.126.1:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 15ms, Maximum = 17ms, Average = 15ms
+
+Tracing route to ns1.wdc002.pnap.net [216.52.126.1]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms    10 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms    11 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    15 ms    14 ms    11 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    11 ms    12 ms  be-10203-cr01.newark.nj.ibone.comcast.net [68.86.85.185] 
+  8    17 ms    17 ms    17 ms  be-10102-cr02.ashburn.va.ibone.comcast.net [68.86.85.161] 
+  9    20 ms    16 ms    15 ms  be-10142-pe01.ashburn.va.ibone.comcast.net [68.86.86.34] 
+ 10    16 ms    15 ms    15 ms  96-87-8-70-static.hfc.comcastbusiness.net [96.87.8.70] 
+ 11    15 ms    15 ms    15 ms  border12.xe-1-1-bbnet2.wdc002.pnap.net [216.52.127.67] 
+ 12    15 ms    15 ms    15 ms  ns1.wdc002.pnap.net [216.52.126.1] 
+
+Trace complete.
+--------------- 
+74.207.242.213, Fremont, (37.5605, -122.0000) 
+Time:  1:14:51.73 
+
+Pinging 74.207.242.213 with 32 bytes of data:
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=80ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=83ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=93ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=80ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+Reply from 74.207.242.213: bytes=32 time=79ms TTL=47
+
+Ping statistics for 74.207.242.213:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 79ms, Maximum = 93ms, Average = 81ms
+
+Tracing route to li84-213.members.linode.com [74.207.242.213]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     9 ms  96.120.73.177 
+  3    21 ms    13 ms    14 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms     8 ms  96.108.142.197 
+  5    10 ms    10 ms    13 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    13 ms    17 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    11 ms    11 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8     9 ms    11 ms    15 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9     *       11 ms    10 ms  nyk-bb3-link.telia.net [62.115.115.0] 
+ 10    80 ms    79 ms    78 ms  sjo-b21-link.telia.net [213.155.130.129] 
+ 11    80 ms    79 ms    80 ms  linode-ic-320384-sjo-b21.c.telia.net [62.115.12.1] 
+ 12    80 ms    80 ms    80 ms  173.230.159.71 
+ 13    79 ms    79 ms    79 ms  li84-213.members.linode.com [74.207.242.213] 
+
+Trace complete.
+--------------- 
+66.218.44.5, San Jose, (37.3388, -121.8910) 
+Time:  1:14:51.73 
+
+Pinging 66.218.44.5 with 32 bytes of data:
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=78ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=78ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=79ms TTL=49
+Reply from 66.218.44.5: bytes=32 time=77ms TTL=49
+
+Ping statistics for 66.218.44.5:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 77ms, Maximum = 79ms, Average = 77ms
+
+Tracing route to ns5.dslextreme.com [66.218.44.5]
+over a maximum of 30 hops:
+
+  1     3 ms     1 ms     1 ms  192.168.0.1 
+  2     8 ms    12 ms     9 ms  96.120.73.177 
+  3    10 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    13 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    39 ms    36 ms    30 ms  be-10305-cr02.350ecermak.il.ibone.comcast.net [68.86.85.202] 
+  8    53 ms    54 ms    54 ms  be-10521-cr02.1601milehigh.co.ibone.comcast.net [68.86.85.170] 
+  9    54 ms    54 ms    52 ms  be-12021-cr01.champa.co.ibone.comcast.net [68.86.84.225] 
+ 10    77 ms    80 ms    78 ms  be-11020-cr02.sunnyvale.ca.ibone.comcast.net [68.86.84.9] 
+ 11    79 ms    80 ms    80 ms  be-11025-cr01.9greatoaks.ca.ibone.comcast.net [68.86.87.158] 
+ 12    79 ms    78 ms    78 ms  be-12544-pe01.9greatoaks.ca.ibone.comcast.net [68.86.87.150] 
+ 13    78 ms    78 ms    81 ms  96-87-8-66-static.hfc.comcastbusiness.net [96.87.8.66] 
+ 14    77 ms    77 ms    77 ms  border5.pc2-bbnet2.sje.pnap.net [66.151.144.82] 
+ 15    78 ms    77 ms    81 ms  qualityspeak-4.edge1.sje.pnap.net [70.42.255.202] 
+ 16    77 ms    77 ms    77 ms  ns5.dslextreme.com [66.218.44.5] 
+
+Trace complete.
+--------------- 
+198.82.247.34, Blacksburg, (37.1791, -80.3515) 
+Time:  1:14:51.73 
+
+Pinging 198.82.247.34 with 32 bytes of data:
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=24ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=23ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=23ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=24ms TTL=50
+Reply from 198.82.247.34: bytes=32 time=22ms TTL=50
+
+Ping statistics for 198.82.247.34:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 22ms, Maximum = 24ms, Average = 22ms
+
+Tracing route to yardbird.cns.vt.edu [198.82.247.34]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms    10 ms     9 ms  96.120.73.177 
+  3    10 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    11 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    10 ms    10 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    11 ms    10 ms    10 ms  be3496.ccr42.jfk02.atlas.cogentco.com [154.54.0.141] 
+ 10    16 ms    17 ms    17 ms  be2807.ccr42.dca01.atlas.cogentco.com [154.54.40.110] 
+ 11    16 ms    16 ms    16 ms  be3084.ccr41.iad02.atlas.cogentco.com [154.54.30.66] 
+ 12    17 ms    18 ms    18 ms  38.127.193.146 
+ 13    23 ms    22 ms    22 ms  192.70.187.24 
+ 14    24 ms    22 ms    25 ms  128.173.0.73 
+ 15    23 ms    24 ms    25 ms  isb-bar.irb.101.cns.vt.edu [198.82.247.33] 
+ 16    25 ms    23 ms    22 ms  yardbird.cns.vt.edu [198.82.247.34] 
+
+Trace complete.
+--------------- 
+216.52.169.1, Houston, (29.6709, -95.5866) 
+Time:  1:14:51.73 
+
+Pinging 216.52.169.1 with 32 bytes of data:
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=50ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=51ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+Reply from 216.52.169.1: bytes=32 time=49ms TTL=46
+
+Ping statistics for 216.52.169.1:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 49ms, Maximum = 51ms, Average = 49ms
+
+Tracing route to ns1.hou.pnap.net [216.52.169.1]
+over a maximum of 30 hops:
+
+  1     2 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     9 ms     9 ms  96.120.73.177 
+  3    11 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms    10 ms    10 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    12 ms    12 ms  be-10203-cr01.newark.nj.ibone.comcast.net [68.86.85.185] 
+  8    19 ms    18 ms    18 ms  be-10102-cr02.ashburn.va.ibone.comcast.net [68.86.85.161] 
+  9    31 ms    29 ms    29 ms  be-10114-cr02.56marietta.ga.ibone.comcast.net [68.86.85.10] 
+ 10    43 ms    42 ms    42 ms  be-11423-cr01.houston.tx.ibone.comcast.net [68.86.85.22] 
+ 11    47 ms    45 ms    46 ms  be-12324-cr02.dallas.tx.ibone.comcast.net [68.86.84.110] 
+ 12    45 ms    46 ms    45 ms  be-12441-pe01.1950stemmons.tx.ibone.comcast.net [68.86.89.206] 
+ 13    46 ms    46 ms    46 ms  96-87-8-78-static.hfc.comcastbusiness.net [96.87.8.78] 
+ 14    47 ms    46 ms    46 ms  border5.ae2-bbnet1.dal006.pnap.net [216.52.191.109] 
+ 15    53 ms    53 ms    52 ms  core3.te-0-0-0-2.hou-dalext1a-1.hou.pnap.net [63.251.44.42] 
+ 16    49 ms    50 ms   147 ms  border4.ae2-bbnet2.hou.pnap.net [216.52.168.66] 
+ 17    50 ms    49 ms    50 ms  ns1.hou.pnap.net [216.52.169.1] 
+
+Trace complete.
+--------------- 
+24.154.1.4, Erie, (40.8859, -79.9340) 
+Time:  1:14:51.73 
+
+Pinging 24.154.1.4 with 32 bytes of data:
+Reply from 24.154.1.4: bytes=32 time=28ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=29ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=27ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=27ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=27ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=28ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=28ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=29ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=28ms TTL=55
+Reply from 24.154.1.4: bytes=32 time=28ms TTL=55
+
+Ping statistics for 24.154.1.4:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 27ms, Maximum = 29ms, Average = 27ms
+
+Tracing route to ns1.zbzoom.net [24.154.1.4]
+over a maximum of 30 hops:
+
+  1   110 ms     2 ms     1 ms  192.168.0.1 
+  2     8 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms    10 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    11 ms    10 ms    12 ms  96.108.142.197 
+  5     9 ms    10 ms     7 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    28 ms    28 ms    28 ms  ARMSTRONG-U.ear3.Washington1.Level3.net [4.14.224.174] 
+  9     *        *        *     Request timed out.
+ 10    27 ms    27 ms    28 ms  ns1.zbzoom.net [24.154.1.4] 
+
+Trace complete.
+--------------- 
+50.116.23.211, Dallas, (32.7787, -96.8217) 
+Time:  1:14:51.73 
+
+Pinging 50.116.23.211 with 32 bytes of data:
+Reply from 50.116.23.211: bytes=32 time=47ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=48ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=48ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=47ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=48ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=46ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=47ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=47ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=47ms TTL=47
+Reply from 50.116.23.211: bytes=32 time=46ms TTL=47
+
+Ping statistics for 50.116.23.211:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 46ms, Maximum = 48ms, Average = 47ms
+
+Tracing route to www.eqnic.net [50.116.23.211]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     9 ms  96.120.73.177 
+  3   119 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms   124 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    11 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    10 ms    10 ms    10 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9     *       45 ms    74 ms  nyk-bb3-link.telia.net [62.115.115.0] 
+ 10    46 ms    46 ms    45 ms  ash-bb3-link.telia.net [62.115.141.244] 
+ 11    31 ms    28 ms    28 ms  atl-b22-link.telia.net [62.115.125.191] 
+ 12    47 ms    46 ms    51 ms  dls-b22-link.telia.net [62.115.120.113] 
+ 13    47 ms    46 ms    46 ms  linode-ic-321020-dls-b22.c.telia.net [213.248.68.159] 
+ 14    46 ms    46 ms    46 ms  45.79.12.7 
+ 15    47 ms    46 ms    46 ms  www.eqnic.net [50.116.23.211] 
+
+Trace complete.
+--------------- 
+216.143.135.11, Dover, (39.1605, -75.5974) 
+Time:  1:14:51.73 
+
+Pinging 216.143.135.11 with 32 bytes of data:
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=12ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=12ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=13ms TTL=114
+Reply from 216.143.135.11: bytes=32 time=14ms TTL=114
+
+Ping statistics for 216.143.135.11:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 12ms, Maximum = 14ms, Average = 12ms
+
+Tracing route to ns1.nuvisions.net [216.143.135.11]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms    10 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms    10 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    13 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    11 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    10 ms    10 ms  be7922.ccr31.jfk10.atlas.cogentco.com [154.54.13.161] 
+  9    11 ms    10 ms    11 ms  be3496.ccr42.jfk02.atlas.cogentco.com [154.54.0.141] 
+ 10    10 ms    10 ms    10 ms  be2897.rcr24.jfk01.atlas.cogentco.com [154.54.84.214] 
+ 11    11 ms    11 ms    11 ms  te0-0-2-3.nr11.b026191-1.jfk01.atlas.cogentco.com [154.24.18.138] 
+ 12   128 ms    12 ms    10 ms  38.140.247.50 
+ 13    12 ms    11 ms    12 ms  cust50-255-78-64-ny.nuvisions.net [64.78.255.50] 
+ 14    13 ms    13 ms    13 ms  cust9-255-78-64-ny.nuvisions.net [64.78.255.9] 
+ 15    13 ms    13 ms    12 ms  ns1.nuvisions.net [216.143.135.11] 
+
+Trace complete.
+--------------- 
+131.191.7.12, Puyallup, (47.1424, -122.2650) 
+Time:  1:14:51.73 
+
+Pinging 131.191.7.12 with 32 bytes of data:
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=76ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+Reply from 131.191.7.12: bytes=32 time=75ms TTL=111
+
+Ping statistics for 131.191.7.12:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 75ms, Maximum = 76ms, Average = 75ms
+
+Tracing route to ns102.click-network.com [131.191.7.12]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms     1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4    10 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    12 ms    12 ms    11 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    11 ms    11 ms     9 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9    75 ms    75 ms    75 ms  nyk-bb3-link.telia.net [62.115.115.0] 
+ 10    29 ms    28 ms    28 ms  chi-b21-link.telia.net [80.91.246.162] 
+ 11    74 ms    74 ms    73 ms  sea-b2-link.telia.net [62.115.117.48] 
+ 12    74 ms    74 ms    73 ms  wavebusiness-ic-327684-sea-b2.c.telia.net [62.115.49.139] 
+ 13    74 ms    75 ms    74 ms  cr2-tuk2-be-4.bb.as11404.net [174.127.136.21] 
+ 14    75 ms    75 ms    76 ms  br3-span-te-0-0-2.bb.spectrumnet.us [174.127.138.95] 
+ 15   254 ms   164 ms   163 ms  cr1-tacn-te3-4.bb.spectrumnet.us [174.127.138.131] 
+ 16    76 ms    76 ms    76 ms  click-network-tacn-20000M.demarc.spectrumnet.us [174.127.154.30] 
+ 17    76 ms    75 ms    75 ms  ns102.click-network.com [131.191.7.12] 
+
+Trace complete.
+---------------  
+209.216.160.131, Hood River, (45.6711, -121.5390) 
+Time:  1:14:51.73 
+
+Pinging 209.216.160.131 with 32 bytes of data:
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=93ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=91ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=101ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+Reply from 209.216.160.131: bytes=32 time=92ms TTL=118
+
+Ping statistics for 209.216.160.131:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 91ms, Maximum = 101ms, Average = 92ms
+
+Tracing route to oss01.gorge.net [209.216.160.131]
+over a maximum of 30 hops:
+
+  1     1 ms     1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     9 ms  96.120.73.177 
+  3     9 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6   128 ms    10 ms   152 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *       84 ms  ae-2-52.ear2.Seattle1.Level3.net [4.69.206.65] 
+  8    89 ms    89 ms    89 ms  AXXIS-COMMU.ear2.Seattle1.Level3.net [4.53.145.118] 
+  9    92 ms    92 ms    91 ms  static-broadband.177-204.gorge.net [209.216.177.204] 
+ 10    92 ms    92 ms    97 ms  oss01.gorge.net [209.216.160.131] 
+
+Trace complete.
+--------------- 
+69.67.97.18, Golden, (39.7305, -105.1910) 
+Time:  1:14:51.73 
+
+Pinging 69.67.97.18 with 32 bytes of data:
+Reply from 69.67.97.18: bytes=32 time=51ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=50ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=50ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=51ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=53ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=50ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=50ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=67ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=72ms TTL=115
+Reply from 69.67.97.18: bytes=32 time=51ms TTL=115
+
+Ping statistics for 69.67.97.18:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 50ms, Maximum = 72ms, Average = 54ms
+
+Tracing route to ns2.fortisusa.net [69.67.97.18]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms    10 ms  96.120.73.177 
+  3    18 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms    10 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    12 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    11 ms    10 ms    24 ms  75.149.231.14 
+  9     *        *        *     Request timed out.
+ 10    51 ms    51 ms    51 ms  65.123.78.246 
+ 11     *        *        *     Request timed out.
+ 12    53 ms    52 ms    50 ms  ns2.fortisusa.net [69.67.97.18] 
+
+Trace complete.
+--------------- 
+64.79.224.3, Birmingham, (33.5210, -86.8066) 
+Time:  1:14:51.73 
+
+Pinging 64.79.224.3 with 32 bytes of data:
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=40ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=39ms TTL=54
+Reply from 64.79.224.3: bytes=32 time=40ms TTL=54
+
+Ping statistics for 64.79.224.3:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 39ms, Maximum = 40ms, Average = 39ms
+
+Tracing route to ns2.venturenet.net [64.79.224.3]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3    10 ms     9 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    10 ms    11 ms    11 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    40 ms   144 ms    39 ms  BODNAR-GROU.ear3.Atlanta2.Level3.net [4.14.28.214] 
+  9   156 ms   162 ms   163 ms  66.182.190.5 
+ 10    39 ms    40 ms    38 ms  66.182.137.162 
+ 11    39 ms    39 ms    39 ms  ns2.venturenet.net [64.79.224.3] 
+
+Trace complete.
+--------------- 
+76.74.253.28, San Antonio, (29.4969, -98.4032) 
+Time:  1:14:51.73 
+
+Pinging 76.74.253.28 with 32 bytes of data:
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=61ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=57ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=58ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=58ms TTL=112
+Reply from 76.74.253.28: bytes=32 time=58ms TTL=112
+
+Ping statistics for 76.74.253.28:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 57ms, Maximum = 61ms, Average = 57ms
+
+Tracing route to server1.doc2md.com [76.74.253.28]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     8 ms     8 ms     9 ms  96.120.73.177 
+  3    10 ms     8 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    12 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    10 ms    11 ms  be-10368-pe01.111eighthave.ny.ibone.comcast.net [68.86.84.218] 
+  8    10 ms    10 ms    10 ms  nyk-b5-link.telia.net [62.115.148.44] 
+  9    48 ms    48 ms    50 ms  nyk-bb4-link.telia.net [80.91.254.15] 
+ 10    48 ms    48 ms    48 ms  ash-bb4-link.telia.net [62.115.136.201] 
+ 11    31 ms    31 ms    31 ms  atl-b22-link.telia.net [62.115.125.128] 
+ 12    50 ms    49 ms    48 ms  dls-b21-link.telia.net [80.91.246.75] 
+ 13    48 ms    48 ms    48 ms  peer1-ic-307696-dls-bb1.c.telia.net [213.155.129.102] 
+ 14     *        *        *     Request timed out.
+ 15    60 ms    57 ms    57 ms  server1.doc2md.com [76.74.253.28] 
+
+Trace complete.
+--------------- 
+50.62.11.69, Scottsdale, (33.6013, -111.8870) 
+Time:  1:14:51.73 
+
+Pinging 50.62.11.69 with 32 bytes of data:
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=69ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=69ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=71ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=70ms TTL=117
+Reply from 50.62.11.69: bytes=32 time=69ms TTL=117
+
+Ping statistics for 50.62.11.69:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 69ms, Maximum = 71ms, Average = 69ms
+
+Tracing route to ip-50-62-11-69.ip.secureserver.net [50.62.11.69]
+over a maximum of 30 hops:
+
+  1    <1 ms     4 ms    <1 ms  192.168.0.1 
+  2     9 ms     9 ms     8 ms  96.120.73.177 
+  3     9 ms     9 ms     8 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5     9 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    10 ms  ae10.edge2.Newark1.Level3.net [4.68.71.125] 
+  7     *        *        *     Request timed out.
+  8    71 ms    69 ms    70 ms  4.28.83.74 
+  9    70 ms    71 ms    71 ms  ip-148-72-32-11.ip.secureserver.net [148.72.32.11] 
+ 10    71 ms   144 ms   169 ms  be39.trmc0215-01.ars.mgmt.phx3.gdg [184.168.0.73] 
+ 11    70 ms    71 ms    70 ms  ip-208-109-112-121.ip.secureserver.net [208.109.112.121] 
+ 12     *        *        *     Request timed out.
+ 13    70 ms    71 ms    69 ms  ip-50-62-11-69.ip.secureserver.net [50.62.11.69] 
+
+Trace complete.
+--------------- 
+66.240.176.71, Alpharetta (34.1124, -84.302) 
+Time:  1:14:51.73 
+
+Pinging 66.240.176.71 with 32 bytes of data:
+Reply from 66.240.176.71: bytes=32 time=25ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=25ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=26ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=24ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=24ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=25ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=25ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=26ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=24ms TTL=53
+Reply from 66.240.176.71: bytes=32 time=24ms TTL=53
+
+Ping statistics for 66.240.176.71:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 24ms, Maximum = 26ms, Average = 24ms
+
+Tracing route to 66-240-176-71.ultrahosting.com [66.240.176.71]
+over a maximum of 30 hops:
+
+  1     1 ms    <1 ms    <1 ms  192.168.0.1 
+  2     9 ms     8 ms     8 ms  96.120.73.177 
+  3     9 ms     8 ms     9 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    10 ms    11 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    10 ms    12 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    10 ms    10 ms    11 ms  ae20.cr2-nyc6.ip4.gtt.net [173.205.52.233] 
+  9    30 ms    29 ms    29 ms  et-8-1-0.cr1-tor1.ip4.gtt.net [213.254.214.90] 
+ 10    25 ms    52 ms    24 ms  as23136.ge-0-2-1.cr1.tor1.ca.as4436.gtt.net [69.31.142.46] 
+ 11    24 ms    24 ms    25 ms  69-10-239-12.onx.com [69.10.239.12] 
+ 12    47 ms   137 ms    24 ms  66-240-176-71.ultrahosting.com [66.240.176.71] 
+
+Trace complete.
+--------------- 
+12.218.237.3, South Bend (41.6973, -86.2202) 
+Time:  1:14:51.73 
+
+Pinging 12.218.237.3 with 32 bytes of data:
+Reply from 12.218.237.3: bytes=32 time=145ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=41ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=114
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=115
+Reply from 12.218.237.3: bytes=32 time=42ms TTL=115
+
+Ping statistics for 12.218.237.3:
+    Packets: Sent = 10, Received = 10, Lost = 0 (0% loss),
+Approximate round trip times in milli-seconds:
+    Minimum = 41ms, Maximum = 145ms, Average = 52ms
+
+Tracing route to ns2.springwisefm.com [12.218.237.3]
+over a maximum of 30 hops:
+
+  1    <1 ms    <1 ms    <1 ms  192.168.0.1 
+  2    11 ms     8 ms    11 ms  96.120.73.177 
+  3     9 ms     9 ms    10 ms  po-202-rur01.hillsboro.nj.panjde.comcast.net [68.86.212.93] 
+  4     9 ms     9 ms     9 ms  96.108.142.197 
+  5    10 ms     9 ms     9 ms  be-98-ar03.plainfield.nj.panjde.comcast.net [68.85.35.37] 
+  6    11 ms    12 ms    10 ms  be-33659-cr02.newyork.ny.ibone.comcast.net [68.86.90.21] 
+  7    11 ms    10 ms    10 ms  be-10390-pe03.111eighthave.ny.ibone.comcast.net [68.86.83.90] 
+  8    12 ms    11 ms    11 ms  comcast-gw.n54ny.ip.att.net [192.205.37.33] 
+  9    31 ms    31 ms    31 ms  cr1.n54ny.ip.att.net [12.122.131.86] 
+ 10    32 ms    30 ms    31 ms  cr2.cgcil.ip.att.net [12.122.2.237] 
+ 11    31 ms    29 ms    28 ms  ggr1.chail.ip.att.net [12.122.132.181] 
+ 12    41 ms    40 ms    40 ms  12.252.47.166 
+ 13    42 ms    41 ms    41 ms  ns2.springwisefm.com [12.218.237.3] 
+
+Trace complete.
+--------------- 

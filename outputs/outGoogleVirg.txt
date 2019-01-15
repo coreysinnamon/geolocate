@@ -1,0 +1,2032 @@
+Date: 2019-01-14 06:00:42
+74.41.61.181, Reno (40.5638, -122.239)
+
+Time: 1547445642
+PING 74.41.61.181 (74.41.61.181) 56(84) bytes of data.
+64 bytes from 74.41.61.181: icmp_seq=1 ttl=48 time=78.6 ms
+64 bytes from 74.41.61.181: icmp_seq=2 ttl=48 time=78.5 ms
+64 bytes from 74.41.61.181: icmp_seq=3 ttl=48 time=78.0 ms
+64 bytes from 74.41.61.181: icmp_seq=4 ttl=48 time=77.8 ms
+64 bytes from 74.41.61.181: icmp_seq=5 ttl=48 time=78.1 ms
+64 bytes from 74.41.61.181: icmp_seq=6 ttl=48 time=78.4 ms
+64 bytes from 74.41.61.181: icmp_seq=7 ttl=48 time=77.8 ms
+64 bytes from 74.41.61.181: icmp_seq=8 ttl=48 time=77.5 ms
+64 bytes from 74.41.61.181: icmp_seq=9 ttl=48 time=77.3 ms
+64 bytes from 74.41.61.181: icmp_seq=10 ttl=48 time=78.1 ms
+
+--- 74.41.61.181 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 77.324/78.057/78.675/0.561 ms
+
+
+Tracing route to 74.41.61.181.
+
+traceroute to 74.41.61.181 (74.41.61.181), 30 hops max, 60 byte packets
+ 1  74.40.1.90 (74.40.1.90)  68.882 ms  68.862 ms  68.850 ms
+ 2  ae0---0.adr01.plcd.ca.frontiernet.net (74.42.151.62)  68.185 ms  68.083 ms  68.410 ms
+ 3  static-74-41-61-181.dsl1.pco.ca.frontiernet.net (74.41.61.181)  80.614 ms  77.879 ms  83.276 ms
+Traceroute complete.
+
+
+
+
+97.74.80.7, Scottsdale (33.6013, -111.8867)
+
+Time: 1547445652
+PING 97.74.80.7 (97.74.80.7) 56(84) bytes of data.
+64 bytes from 97.74.80.7: icmp_seq=1 ttl=49 time=69.8 ms
+64 bytes from 97.74.80.7: icmp_seq=2 ttl=49 time=69.7 ms
+64 bytes from 97.74.80.7: icmp_seq=3 ttl=49 time=69.5 ms
+64 bytes from 97.74.80.7: icmp_seq=4 ttl=49 time=69.7 ms
+64 bytes from 97.74.80.7: icmp_seq=5 ttl=49 time=69.6 ms
+64 bytes from 97.74.80.7: icmp_seq=6 ttl=49 time=69.3 ms
+64 bytes from 97.74.80.7: icmp_seq=7 ttl=49 time=69.3 ms
+64 bytes from 97.74.80.7: icmp_seq=8 ttl=49 time=69.4 ms
+64 bytes from 97.74.80.7: icmp_seq=9 ttl=49 time=69.4 ms
+64 bytes from 97.74.80.7: icmp_seq=10 ttl=49 time=69.3 ms
+
+--- 97.74.80.7 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 69.355/69.548/69.879/0.393 ms
+
+
+Tracing route to 97.74.80.7.
+
+traceroute to 97.74.80.7 (97.74.80.7), 30 hops max, 60 byte packets
+ 1  108.170.230.130 (108.170.230.130)  60.851 ms  60.833 ms 108.170.234.26 (108.170.234.26)  60.810 ms
+ 2  108.170.247.132 (108.170.247.132)  61.369 ms 108.170.247.196 (108.170.247.196)  60.987 ms 108.170.247.228 (108.170.247.228)  60.765 ms
+ 3  ip-216-69-191-108.ip.secureserver.net (216.69.191.108)  60.973 ms  60.968 ms  60.773 ms
+ 4  * * *
+ 5  ip-148-72-32-16.ip.secureserver.net (148.72.32.16)  71.089 ms  70.933 ms  71.069 ms
+ 6  ae0-bbmb1001-02.bbn.mgmt.phx3.secureserver.net (148.72.32.1)  76.857 ms  76.318 ms  76.360 ms
+ 7  ip-208-109-113-161.ip.secureserver.net (208.109.113.161)  70.592 ms  70.492 ms  70.366 ms
+ 8  ip-97-74-80-7.ip.secureserver.net (97.74.80.7)  69.562 ms  69.493 ms *
+Traceroute complete.
+
+
+
+
+65.111.169.159, Fort Lauderdale (26.1216, -80.1288)
+
+Time: 1547445662
+PING 65.111.169.159 (65.111.169.159) 56(84) bytes of data.
+64 bytes from 65.111.169.159: icmp_seq=1 ttl=50 time=26.6 ms
+64 bytes from 65.111.169.159: icmp_seq=2 ttl=50 time=25.1 ms
+64 bytes from 65.111.169.159: icmp_seq=3 ttl=50 time=25.3 ms
+64 bytes from 65.111.169.159: icmp_seq=4 ttl=50 time=25.2 ms
+64 bytes from 65.111.169.159: icmp_seq=5 ttl=50 time=25.6 ms
+64 bytes from 65.111.169.159: icmp_seq=6 ttl=50 time=25.2 ms
+64 bytes from 65.111.169.159: icmp_seq=7 ttl=50 time=25.4 ms
+64 bytes from 65.111.169.159: icmp_seq=8 ttl=50 time=25.3 ms
+64 bytes from 65.111.169.159: icmp_seq=9 ttl=50 time=25.3 ms
+64 bytes from 65.111.169.159: icmp_seq=10 ttl=50 time=25.6 ms
+
+--- 65.111.169.159 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 25.174/25.505/26.602/0.410 ms
+
+
+Tracing route to 65.111.169.159.
+
+traceroute to 65.111.169.159 (65.111.169.159), 30 hops max, 60 byte packets
+ 1  * * rolllasted.com (65.111.169.159)  26.761 ms
+Traceroute complete.
+
+
+
+
+192.221.158.0, NYC (40.7143, -74.0060)
+
+Time: 1547445671
+PING 192.221.158.0 (192.221.158.0) 56(84) bytes of data.
+64 bytes from 192.221.158.0: icmp_seq=1 ttl=53 time=7.77 ms
+64 bytes from 192.221.158.0: icmp_seq=2 ttl=53 time=7.48 ms
+64 bytes from 192.221.158.0: icmp_seq=3 ttl=53 time=7.34 ms
+64 bytes from 192.221.158.0: icmp_seq=4 ttl=53 time=7.13 ms
+64 bytes from 192.221.158.0: icmp_seq=5 ttl=53 time=7.10 ms
+64 bytes from 192.221.158.0: icmp_seq=6 ttl=53 time=7.09 ms
+64 bytes from 192.221.158.0: icmp_seq=7 ttl=53 time=7.13 ms
+64 bytes from 192.221.158.0: icmp_seq=8 ttl=53 time=7.12 ms
+64 bytes from 192.221.158.0: icmp_seq=9 ttl=53 time=7.07 ms
+64 bytes from 192.221.158.0: icmp_seq=10 ttl=53 time=7.14 ms
+
+--- 192.221.158.0 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 7.073/7.242/7.777/0.223 ms
+
+
+Tracing route to 192.221.158.0.
+
+traceroute to 192.221.158.0 (192.221.158.0), 30 hops max, 60 byte packets
+ 1  cns2.NewYork1.Level3.net (192.221.158.0)  7.257 ms *  7.217 ms
+Traceroute complete.
+
+
+
+74.222.5.98, LA, (34.0584, -118.2780)
+
+Time: 1547445692
+PING 74.222.5.98 (74.222.5.98) 56(84) bytes of data.
+64 bytes from 74.222.5.98: icmp_seq=1 ttl=110 time=64.4 ms
+64 bytes from 74.222.5.98: icmp_seq=2 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=3 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=4 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=5 ttl=110 time=64.0 ms
+64 bytes from 74.222.5.98: icmp_seq=6 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=7 ttl=110 time=63.8 ms
+64 bytes from 74.222.5.98: icmp_seq=8 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=9 ttl=110 time=63.9 ms
+64 bytes from 74.222.5.98: icmp_seq=10 ttl=110 time=64.0 ms
+
+--- 74.222.5.98 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 63.897/63.996/64.463/0.253 ms
+
+
+Tracing route to 74.222.5.98.
+
+traceroute to 74.222.5.98 (74.222.5.98), 30 hops max, 60 byte packets
+ 1  * * ae-10.r22.asbnva02.us.bb.gin.ntt.net (129.250.2.21)  2.438 ms
+ 2  ae-5.r23.lsanca07.us.bb.gin.ntt.net (129.250.3.189)  61.528 ms ae-1.a00.lsanca07.us.bb.gin.ntt.net (129.250.2.116)  68.133 ms  68.124 ms
+ 3  ae-2.r00.lsanca07.us.bb.gin.ntt.net (129.250.3.238)  64.611 ms ae-2.r01.lsanca07.us.bb.gin.ntt.net (129.250.4.107)  64.613 ms xe-0-0-19-2.a00.lsanca07.us.ce.gin.ntt.net (129.250.203.30)  61.111 ms
+ 4  ae-0.a00.lsanca07.us.bb.gin.ntt.net (129.250.2.104)  61.660 ms 70.36.122.29 (70.36.122.29)  64.680 ms ae-0.a00.lsanca07.us.bb.gin.ntt.net (129.250.2.104)  68.196 ms
+ 5  70.36.122.26 (70.36.122.26)  74.947 ms xe-0-0-19-2.a00.lsanca07.us.ce.gin.ntt.net (129.250.203.30)  64.725 ms 70.36.122.26 (70.36.122.26)  74.944 ms
+ 6  74.222.5.98 (74.222.5.98)  64.791 ms 70.36.122.29 (70.36.122.29)  65.647 ms  65.464 ms
+Traceroute complete.
+
+
+
+
+45.77.165.194, Miami, (25.8130, -80.2320)
+
+Time: 1547445701
+PING 45.77.165.194 (45.77.165.194) 56(84) bytes of data.
+64 bytes from 45.77.165.194: icmp_seq=1 ttl=51 time=24.6 ms
+64 bytes from 45.77.165.194: icmp_seq=2 ttl=51 time=24.0 ms
+64 bytes from 45.77.165.194: icmp_seq=3 ttl=51 time=24.0 ms
+64 bytes from 45.77.165.194: icmp_seq=4 ttl=51 time=24.1 ms
+64 bytes from 45.77.165.194: icmp_seq=5 ttl=51 time=24.0 ms
+64 bytes from 45.77.165.194: icmp_seq=6 ttl=51 time=24.0 ms
+64 bytes from 45.77.165.194: icmp_seq=7 ttl=51 time=24.0 ms
+64 bytes from 45.77.165.194: icmp_seq=8 ttl=51 time=24.1 ms
+64 bytes from 45.77.165.194: icmp_seq=9 ttl=51 time=24.1 ms
+64 bytes from 45.77.165.194: icmp_seq=10 ttl=51 time=24.0 ms
+
+--- 45.77.165.194 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9009ms
+rtt min/avg/max/mdev = 24.029/24.142/24.609/0.222 ms
+
+
+Tracing route to 45.77.165.194.
+
+traceroute to 45.77.165.194 (45.77.165.194), 30 hops max, 60 byte packets
+ 1  206.41.108.73 (206.41.108.73)  25.782 ms  25.636 ms  25.758 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+64.5.52.69, Dallas, (32.9322, -96.8353)
+
+Time: 1547445741
+PING 64.5.52.69 (64.5.52.69) 56(84) bytes of data.
+64 bytes from 64.5.52.69: icmp_seq=1 ttl=113 time=30.7 ms
+64 bytes from 64.5.52.69: icmp_seq=2 ttl=113 time=30.1 ms
+64 bytes from 64.5.52.69: icmp_seq=3 ttl=113 time=30.1 ms
+64 bytes from 64.5.52.69: icmp_seq=4 ttl=113 time=30.0 ms
+64 bytes from 64.5.52.69: icmp_seq=5 ttl=113 time=30.0 ms
+64 bytes from 64.5.52.69: icmp_seq=6 ttl=113 time=30.0 ms
+64 bytes from 64.5.52.69: icmp_seq=7 ttl=113 time=30.0 ms
+64 bytes from 64.5.52.69: icmp_seq=8 ttl=113 time=30.1 ms
+64 bytes from 64.5.52.69: icmp_seq=9 ttl=113 time=30.1 ms
+64 bytes from 64.5.52.69: icmp_seq=10 ttl=113 time=30.1 ms
+
+--- 64.5.52.69 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 30.053/30.174/30.738/0.206 ms
+
+
+Tracing route to 64.5.52.69.
+
+traceroute to 64.5.52.69 (64.5.52.69), 30 hops max, 60 byte packets
+ 1  ae34.bbr01.eq01.dal03.networklayer.com (50.97.17.57)  34.156 ms  31.688 ms  34.013 ms
+ 2  ae5.dar01.dal06.networklayer.com (50.97.19.3)  31.057 ms ae5.dar02.dal06.networklayer.com (50.97.19.5)  30.657 ms  30.630 ms
+ 3  po62.dsr01.dllstx2.networklayer.com (184.172.118.141)  31.250 ms  33.389 ms po61.dsr01.dllstx2.networklayer.com (184.172.118.139)  32.776 ms
+ 4  te1-4.dsr02.dllstx2.networklayer.com (70.87.253.138)  31.511 ms  31.045 ms  30.924 ms
+ 5  po2.car02.dllstx2.networklayer.com (70.87.254.86)  86.587 ms po2.car01.dllstx2.networklayer.com (70.87.254.78)  48.535 ms *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+204.27.57.39, Kansas City, (39.1052, -94.5699)
+
+Time: 1547445775
+PING 204.27.57.39 (204.27.57.39) 56(84) bytes of data.
+64 bytes from 204.27.57.39: icmp_seq=1 ttl=112 time=35.9 ms
+64 bytes from 204.27.57.39: icmp_seq=2 ttl=112 time=35.5 ms
+64 bytes from 204.27.57.39: icmp_seq=3 ttl=112 time=35.5 ms
+64 bytes from 204.27.57.39: icmp_seq=4 ttl=112 time=35.7 ms
+64 bytes from 204.27.57.39: icmp_seq=5 ttl=112 time=35.4 ms
+64 bytes from 204.27.57.39: icmp_seq=6 ttl=112 time=35.6 ms
+64 bytes from 204.27.57.39: icmp_seq=7 ttl=112 time=35.5 ms
+64 bytes from 204.27.57.39: icmp_seq=8 ttl=112 time=36.5 ms
+64 bytes from 204.27.57.39: icmp_seq=9 ttl=112 time=35.6 ms
+64 bytes from 204.27.57.39: icmp_seq=10 ttl=112 time=35.9 ms
+
+--- 204.27.57.39 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 35.452/35.767/36.553/0.383 ms
+
+
+Tracing route to 204.27.57.39.
+
+traceroute to 204.27.57.39 (204.27.57.39), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+173.0.52.114, Seattle, (47.4889, -122.3010)
+
+Time: 1547445814
+PING 173.0.52.114 (173.0.52.114) 56(84) bytes of data.
+64 bytes from 173.0.52.114: icmp_seq=1 ttl=50 time=57.2 ms
+64 bytes from 173.0.52.114: icmp_seq=2 ttl=50 time=56.3 ms
+64 bytes from 173.0.52.114: icmp_seq=3 ttl=50 time=56.3 ms
+64 bytes from 173.0.52.114: icmp_seq=4 ttl=50 time=56.3 ms
+64 bytes from 173.0.52.114: icmp_seq=5 ttl=50 time=56.3 ms
+64 bytes from 173.0.52.114: icmp_seq=6 ttl=50 time=56.4 ms
+64 bytes from 173.0.52.114: icmp_seq=7 ttl=50 time=56.3 ms
+64 bytes from 173.0.52.114: icmp_seq=8 ttl=50 time=56.5 ms
+64 bytes from 173.0.52.114: icmp_seq=9 ttl=50 time=56.4 ms
+64 bytes from 173.0.52.114: icmp_seq=10 ttl=50 time=56.3 ms
+
+--- 173.0.52.114 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 56.374/56.486/57.207/0.286 ms
+
+
+Tracing route to 173.0.52.114.
+
+traceroute to 173.0.52.114 (173.0.52.114), 30 hops max, 60 byte packets
+ 1  wowrack.com (206.81.80.37)  56.813 ms  56.669 ms  56.852 ms
+ 2  ae4-0.br2.igw.sea.wowrack.net (216.244.88.168)  56.934 ms  56.924 ms  57.078 ms
+ 3  br1-igw-wow-p3.wowrack.net (216.244.88.41)  57.079 ms  59.803 ms  59.955 ms
+ 4  216.244.88.43 (216.244.88.43)  57.048 ms  57.037 ms  57.032 ms
+ 5  p13.ss-core0.sea.wowrack.net (216.244.88.158)  57.816 ms  57.592 ms  57.695 ms
+ 6  * * *
+ 7  173.0.52.114 (173.0.52.114)  55.963 ms  55.941 ms *
+Traceroute complete.
+
+
+
+
+72.18.139.227, Denver, (39.7491, -104.9950)
+
+Time: 1547445824
+PING 72.18.139.227 (72.18.139.227) 56(84) bytes of data.
+64 bytes from 72.18.139.227: icmp_seq=1 ttl=114 time=44.8 ms
+64 bytes from 72.18.139.227: icmp_seq=2 ttl=114 time=44.2 ms
+64 bytes from 72.18.139.227: icmp_seq=3 ttl=114 time=44.2 ms
+64 bytes from 72.18.139.227: icmp_seq=4 ttl=114 time=44.2 ms
+64 bytes from 72.18.139.227: icmp_seq=5 ttl=114 time=44.3 ms
+64 bytes from 72.18.139.227: icmp_seq=6 ttl=114 time=44.5 ms
+64 bytes from 72.18.139.227: icmp_seq=7 ttl=114 time=44.1 ms
+64 bytes from 72.18.139.227: icmp_seq=8 ttl=114 time=44.6 ms
+64 bytes from 72.18.139.227: icmp_seq=9 ttl=114 time=44.1 ms
+64 bytes from 72.18.139.227: icmp_seq=10 ttl=114 time=44.2 ms
+
+--- 72.18.139.227 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 44.129/44.358/44.856/0.241 ms
+
+
+Tracing route to 72.18.139.227.
+
+traceroute to 72.18.139.227 (72.18.139.227), 30 hops max, 60 byte packets
+ 1  * ae3.cs2.ord2.us.eth.zayo.com (64.125.29.213)  43.550 ms  43.724 ms
+ 2  * * 72.18.139.227 (72.18.139.227)  39.013 ms
+Traceroute complete.
+
+
+
+
+67.205.246.138, Philadelphia (39.9597, -75.2024)
+
+Time: 1547445833
+PING 67.205.246.138 (67.205.246.138) 56(84) bytes of data.
+64 bytes from 67.205.246.138: icmp_seq=1 ttl=44 time=9.02 ms
+64 bytes from 67.205.246.138: icmp_seq=2 ttl=44 time=8.76 ms
+64 bytes from 67.205.246.138: icmp_seq=3 ttl=44 time=8.77 ms
+64 bytes from 67.205.246.138: icmp_seq=4 ttl=44 time=8.77 ms
+64 bytes from 67.205.246.138: icmp_seq=5 ttl=44 time=8.77 ms
+64 bytes from 67.205.246.138: icmp_seq=6 ttl=44 time=8.75 ms
+64 bytes from 67.205.246.138: icmp_seq=7 ttl=44 time=8.74 ms
+64 bytes from 67.205.246.138: icmp_seq=8 ttl=44 time=8.71 ms
+64 bytes from 67.205.246.138: icmp_seq=9 ttl=44 time=8.77 ms
+64 bytes from 67.205.246.138: icmp_seq=10 ttl=44 time=8.81 ms
+
+--- 67.205.246.138 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 8.713/8.792/9.027/0.124 ms
+
+
+Tracing route to 67.205.246.138.
+
+traceroute to 67.205.246.138 (67.205.246.138), 30 hops max, 60 byte packets
+ 1  be3161.rcr21.phl01.atlas.cogentco.com (154.54.5.114)  9.300 ms be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  10.215 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  9.386 ms
+ 2  be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  9.886 ms be3164.rcr21.phl03.atlas.cogentco.com (154.54.25.142)  9.539 ms be3163.rcr21.phl03.atlas.cogentco.com (154.54.7.2)  9.437 ms
+ 3  38.140.149.34 (38.140.149.34)  9.220 ms  9.137 ms  9.448 ms
+ 4  72.13.143.65 (72.13.143.65)  9.361 ms  9.665 ms  9.803 ms
+ 5  72.13.143.65 (72.13.143.65)  9.864 ms 67.205.246.138 (67.205.246.138)  9.161 ms  9.643 ms
+Traceroute complete.
+
+
+
+
+192.190.112.26, Aurora (39.6012, -104.7394)
+
+Time: 1547445842
+PING 192.190.112.26 (192.190.112.26) 56(84) bytes of data.
+64 bytes from 192.190.112.26: icmp_seq=1 ttl=49 time=39.7 ms
+64 bytes from 192.190.112.26: icmp_seq=2 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=3 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=4 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=5 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=6 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=7 ttl=49 time=39.0 ms
+64 bytes from 192.190.112.26: icmp_seq=8 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=9 ttl=49 time=39.1 ms
+64 bytes from 192.190.112.26: icmp_seq=10 ttl=49 time=39.1 ms
+
+--- 192.190.112.26 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 39.064/39.193/39.755/0.313 ms
+
+
+Tracing route to 192.190.112.26.
+
+traceroute to 192.190.112.26 (192.190.112.26), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * 192.190.112.26 (192.190.112.26)  39.221 ms
+Traceroute complete.
+
+
+
+
+192.221.138.0, Chicago (41.8483, -87.6517)
+
+Time: 1547445852
+PING 192.221.138.0 (192.221.138.0) 56(84) bytes of data.
+64 bytes from 192.221.138.0: icmp_seq=1 ttl=51 time=17.3 ms
+64 bytes from 192.221.138.0: icmp_seq=2 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=3 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=4 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=5 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=6 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=7 ttl=51 time=16.8 ms
+64 bytes from 192.221.138.0: icmp_seq=8 ttl=51 time=16.8 ms
+64 bytes from 192.221.138.0: icmp_seq=9 ttl=51 time=16.7 ms
+64 bytes from 192.221.138.0: icmp_seq=10 ttl=51 time=16.7 ms
+
+--- 192.221.138.0 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 16.702/16.815/17.336/0.203 ms
+
+
+Tracing route to 192.221.138.0.
+
+traceroute to 192.221.138.0 (192.221.138.0), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * cns2.Chicago2.Level3.net (192.221.138.0)  16.765 ms
+Traceroute complete.
+
+
+
+
+142.103.1.1, Vancouver (49.2658, -123.2566)
+
+Time: 1547445861
+PING 142.103.1.1 (142.103.1.1) 56(84) bytes of data.
+64 bytes from 142.103.1.1: icmp_seq=1 ttl=47 time=66.1 ms
+64 bytes from 142.103.1.1: icmp_seq=2 ttl=47 time=65.1 ms
+64 bytes from 142.103.1.1: icmp_seq=3 ttl=47 time=65.1 ms
+64 bytes from 142.103.1.1: icmp_seq=4 ttl=47 time=64.8 ms
+64 bytes from 142.103.1.1: icmp_seq=5 ttl=47 time=64.8 ms
+64 bytes from 142.103.1.1: icmp_seq=6 ttl=47 time=65.3 ms
+64 bytes from 142.103.1.1: icmp_seq=7 ttl=47 time=64.9 ms
+64 bytes from 142.103.1.1: icmp_seq=8 ttl=47 time=64.8 ms
+64 bytes from 142.103.1.1: icmp_seq=9 ttl=47 time=64.9 ms
+64 bytes from 142.103.1.1: icmp_seq=10 ttl=47 time=64.8 ms
+
+--- 142.103.1.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 64.843/65.110/66.153/0.414 ms
+
+
+Tracing route to 142.103.1.1.
+
+traceroute to 142.103.1.1 (142.103.1.1), 30 hops max, 60 byte packets
+ 1  toro1rtr2.canarie.ca (205.189.33.230)  64.667 ms  64.801 ms  64.644 ms
+ 2  wnpg1rtr2.canarie.ca (205.189.33.216)  64.662 ms  64.626 ms  64.771 ms
+ 3  wnpg2rtr2.canarie.ca (205.189.33.194)  69.143 ms  69.085 ms  69.218 ms
+ 4  clgr2rtr2.canarie.ca (205.189.33.198)  64.735 ms  64.565 ms  64.555 ms
+ 5  199.212.24.102 (199.212.24.102)  64.300 ms  64.552 ms  64.539 ms
+ 6  422-canarie-ix-cr1.vncv1.bc.net (199.212.24.65)  64.512 ms  63.126 ms  63.325 ms
+ 7  345-ix-ubcab-cr1.vncv1.bc.net (134.87.0.57)  63.297 ms  63.169 ms  63.145 ms
+ 8  137.82.88.122 (137.82.88.122)  64.490 ms  64.486 ms  64.573 ms
+ 9  a21-a0.net.ubc.ca (137.82.123.65)  64.381 ms  64.379 ms  63.896 ms
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+142.46.1.130, Brampton (43.6534, -79.3827)
+
+Time: 1547445891
+PING 142.46.1.130 (142.46.1.130) 56(84) bytes of data.
+64 bytes from 142.46.1.130: icmp_seq=1 ttl=51 time=21.9 ms
+64 bytes from 142.46.1.130: icmp_seq=2 ttl=51 time=21.6 ms
+64 bytes from 142.46.1.130: icmp_seq=3 ttl=51 time=21.4 ms
+64 bytes from 142.46.1.130: icmp_seq=4 ttl=51 time=21.3 ms
+64 bytes from 142.46.1.130: icmp_seq=5 ttl=51 time=21.3 ms
+64 bytes from 142.46.1.130: icmp_seq=6 ttl=51 time=21.3 ms
+64 bytes from 142.46.1.130: icmp_seq=7 ttl=51 time=21.3 ms
+64 bytes from 142.46.1.130: icmp_seq=8 ttl=51 time=21.3 ms
+64 bytes from 142.46.1.130: icmp_seq=9 ttl=51 time=21.4 ms
+64 bytes from 142.46.1.130: icmp_seq=10 ttl=51 time=21.4 ms
+
+--- 142.46.1.130 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 21.309/21.466/21.978/0.201 ms
+
+
+Tracing route to 142.46.1.130.
+
+traceroute to 142.46.1.130 (142.46.1.130), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  x-0-0-0-1.x01.rch.hydroonetelecom.com (142.47.202.35)  22.338 ms x-0-0-2-0.x01.rch.hydroonetelecom.com (142.47.202.11)  22.164 ms x-0-0-0-1.x01.rch.hydroonetelecom.com (142.47.202.35)  21.933 ms
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+216.254.141.2, Mississauga (43.7001, -79.4163)
+
+Time: 1547445930
+PING 216.254.141.2 (216.254.141.2) 56(84) bytes of data.
+64 bytes from 216.254.141.2: icmp_seq=1 ttl=244 time=21.2 ms
+64 bytes from 216.254.141.2: icmp_seq=2 ttl=244 time=21.0 ms
+64 bytes from 216.254.141.2: icmp_seq=3 ttl=244 time=20.8 ms
+64 bytes from 216.254.141.2: icmp_seq=4 ttl=244 time=20.6 ms
+64 bytes from 216.254.141.2: icmp_seq=5 ttl=244 time=20.7 ms
+64 bytes from 216.254.141.2: icmp_seq=6 ttl=244 time=20.6 ms
+64 bytes from 216.254.141.2: icmp_seq=7 ttl=244 time=20.7 ms
+64 bytes from 216.254.141.2: icmp_seq=8 ttl=244 time=20.6 ms
+64 bytes from 216.254.141.2: icmp_seq=9 ttl=244 time=20.7 ms
+64 bytes from 216.254.141.2: icmp_seq=10 ttl=244 time=20.6 ms
+
+--- 216.254.141.2 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 20.643/20.801/21.248/0.213 ms
+
+
+Tracing route to 216.254.141.2.
+
+traceroute to 216.254.141.2 (216.254.141.2), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * tor-dns-recursive.primus.ca (216.254.141.2)  20.680 ms *
+Traceroute complete.
+
+
+
+
+64.40.249.225, Newmarket (44.0565, -79.4555)
+
+Time: 1547445944
+PING 64.40.249.225 (64.40.249.225) 56(84) bytes of data.
+64 bytes from 64.40.249.225: icmp_seq=1 ttl=49 time=41.2 ms
+64 bytes from 64.40.249.225: icmp_seq=2 ttl=49 time=45.8 ms
+64 bytes from 64.40.249.225: icmp_seq=3 ttl=49 time=31.7 ms
+64 bytes from 64.40.249.225: icmp_seq=4 ttl=49 time=32.3 ms
+64 bytes from 64.40.249.225: icmp_seq=5 ttl=49 time=33.0 ms
+64 bytes from 64.40.249.225: icmp_seq=6 ttl=49 time=39.7 ms
+64 bytes from 64.40.249.225: icmp_seq=7 ttl=49 time=66.0 ms
+64 bytes from 64.40.249.225: icmp_seq=8 ttl=49 time=30.9 ms
+64 bytes from 64.40.249.225: icmp_seq=9 ttl=49 time=33.1 ms
+64 bytes from 64.40.249.225: icmp_seq=10 ttl=49 time=33.8 ms
+
+--- 64.40.249.225 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 30.904/38.802/66.066/10.211 ms
+
+
+Tracing route to 64.40.249.225.
+
+traceroute to 64.40.249.225 (64.40.249.225), 30 hops max, 60 byte packets
+ 1  66.199.34.59 (66.199.34.59)  22.738 ms  22.167 ms  22.166 ms
+ 2  66.199.34.59 (66.199.34.59)  21.609 ms  22.512 ms  22.495 ms
+ 3  69.77.176.90 (69.77.176.90)  22.683 ms  22.676 ms  22.857 ms
+ 4  wlro1-to-core.ica.net (209.151.129.234)  22.477 ms  22.698 ms  22.460 ms
+ 5  bra-core.ica.net (209.151.129.99)  24.572 ms  24.549 ms  24.710 ms
+ 6  broadband-net249-ip225.ica.net (64.40.249.225)  44.648 ms  37.693 ms  37.256 ms
+Traceroute complete.
+
+
+
+
+66.18.240.194, Calgary (51.0497, -113.1394)
+
+Time: 1547445954
+PING 66.18.240.194 (66.18.240.194) 56(84) bytes of data.
+64 bytes from 66.18.240.194: icmp_seq=1 ttl=51 time=69.7 ms
+64 bytes from 66.18.240.194: icmp_seq=2 ttl=51 time=69.3 ms
+64 bytes from 66.18.240.194: icmp_seq=3 ttl=51 time=69.3 ms
+64 bytes from 66.18.240.194: icmp_seq=4 ttl=51 time=70.8 ms
+64 bytes from 66.18.240.194: icmp_seq=5 ttl=51 time=69.4 ms
+64 bytes from 66.18.240.194: icmp_seq=6 ttl=51 time=69.4 ms
+64 bytes from 66.18.240.194: icmp_seq=7 ttl=51 time=69.2 ms
+64 bytes from 66.18.240.194: icmp_seq=8 ttl=51 time=69.3 ms
+64 bytes from 66.18.240.194: icmp_seq=9 ttl=51 time=69.3 ms
+64 bytes from 66.18.240.194: icmp_seq=10 ttl=51 time=69.3 ms
+
+--- 66.18.240.194 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 69.298/69.548/70.801/0.464 ms
+
+
+Tracing route to 66.18.240.194.
+
+traceroute to 66.18.240.194 (66.18.240.194), 30 hops max, 60 byte packets
+ 1  gw-nucleus.yycix.ca (206.126.225.19)  74.511 ms  74.480 ms  74.733 ms
+ 2  * * *
+ 3  hw1-sb-66-18-240-194.nucleus.com (66.18.240.194)  69.692 ms  69.463 ms *
+Traceroute complete.
+
+
+
+
+208.88.110.58, Quebec (45.5000, -73.5833)
+
+Time: 1547445964
+PING 208.88.110.58 (208.88.110.58) 56(84) bytes of data.
+64 bytes from 208.88.110.58: icmp_seq=1 ttl=52 time=15.5 ms
+64 bytes from 208.88.110.58: icmp_seq=2 ttl=52 time=14.9 ms
+64 bytes from 208.88.110.58: icmp_seq=3 ttl=52 time=14.9 ms
+64 bytes from 208.88.110.58: icmp_seq=4 ttl=52 time=15.0 ms
+64 bytes from 208.88.110.58: icmp_seq=5 ttl=52 time=14.9 ms
+64 bytes from 208.88.110.58: icmp_seq=6 ttl=52 time=14.9 ms
+64 bytes from 208.88.110.58: icmp_seq=7 ttl=52 time=15.0 ms
+64 bytes from 208.88.110.58: icmp_seq=8 ttl=52 time=14.9 ms
+64 bytes from 208.88.110.58: icmp_seq=9 ttl=52 time=15.0 ms
+64 bytes from 208.88.110.58: icmp_seq=10 ttl=52 time=15.0 ms
+
+--- 208.88.110.58 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 14.975/15.054/15.557/0.228 ms
+
+
+Tracing route to 208.88.110.58.
+
+traceroute to 208.88.110.58 (208.88.110.58), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * pbx3.telecodex.com (208.88.110.58)  15.555 ms  15.729 ms
+Traceroute complete.
+
+
+
+
+199.71.52.26, Greater Sudbury (46.5133, -81.0225)
+
+Time: 1547445973
+PING 199.71.52.26 (199.71.52.26) 56(84) bytes of data.
+64 bytes from 199.71.52.26: icmp_seq=1 ttl=116 time=25.8 ms
+64 bytes from 199.71.52.26: icmp_seq=2 ttl=116 time=25.6 ms
+64 bytes from 199.71.52.26: icmp_seq=3 ttl=116 time=25.7 ms
+64 bytes from 199.71.52.26: icmp_seq=4 ttl=116 time=25.4 ms
+64 bytes from 199.71.52.26: icmp_seq=5 ttl=116 time=25.5 ms
+64 bytes from 199.71.52.26: icmp_seq=6 ttl=116 time=25.3 ms
+64 bytes from 199.71.52.26: icmp_seq=7 ttl=116 time=25.3 ms
+64 bytes from 199.71.52.26: icmp_seq=8 ttl=116 time=25.2 ms
+64 bytes from 199.71.52.26: icmp_seq=9 ttl=116 time=25.3 ms
+64 bytes from 199.71.52.26: icmp_seq=10 ttl=116 time=25.2 ms
+
+--- 199.71.52.26 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 25.297/25.489/25.847/0.269 ms
+
+
+Tracing route to 199.71.52.26.
+
+traceroute to 199.71.52.26 (199.71.52.26), 30 hops max, 60 byte packets
+ 1  216.223.91.162 (216.223.91.162)  28.090 ms  28.101 ms  27.955 ms
+ 2  olsnweb.olsn.ca (199.71.52.26)  26.267 ms  26.718 ms  26.183 ms
+Traceroute complete.
+
+
+
+
+209.29.150.135, Toronto (43.6496, -79.3833)
+
+Time: 1547445982
+PING 209.29.150.135 (209.29.150.135) 56(84) bytes of data.
+64 bytes from 209.29.150.135: icmp_seq=1 ttl=51 time=22.9 ms
+64 bytes from 209.29.150.135: icmp_seq=2 ttl=51 time=21.4 ms
+64 bytes from 209.29.150.135: icmp_seq=3 ttl=51 time=21.3 ms
+64 bytes from 209.29.150.135: icmp_seq=4 ttl=51 time=21.2 ms
+64 bytes from 209.29.150.135: icmp_seq=5 ttl=51 time=21.2 ms
+64 bytes from 209.29.150.135: icmp_seq=6 ttl=51 time=21.2 ms
+64 bytes from 209.29.150.135: icmp_seq=7 ttl=51 time=21.2 ms
+64 bytes from 209.29.150.135: icmp_seq=8 ttl=51 time=21.3 ms
+64 bytes from 209.29.150.135: icmp_seq=9 ttl=51 time=21.3 ms
+64 bytes from 209.29.150.135: icmp_seq=10 ttl=51 time=21.3 ms
+
+--- 209.29.150.135 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 21.260/21.491/22.955/0.499 ms
+
+
+Tracing route to 209.29.150.135.
+
+traceroute to 209.29.150.135 (209.29.150.135), 30 hops max, 60 byte packets
+ 1  96.1.216.250 (96.1.216.250)  22.817 ms  23.126 ms  22.872 ms
+ 2  207.34.253.144 (207.34.253.144)  22.209 ms  21.695 ms  21.706 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+142.165.14.51, Moose Jaw (50.3895, -105.5578)
+
+Time: 1547446021
+PING 142.165.14.51 (142.165.14.51) 56(84) bytes of data.
+64 bytes from 142.165.14.51: icmp_seq=1 ttl=243 time=58.2 ms
+64 bytes from 142.165.14.51: icmp_seq=2 ttl=243 time=60.1 ms
+64 bytes from 142.165.14.51: icmp_seq=3 ttl=243 time=58.0 ms
+64 bytes from 142.165.14.51: icmp_seq=4 ttl=243 time=59.9 ms
+64 bytes from 142.165.14.51: icmp_seq=5 ttl=243 time=57.5 ms
+64 bytes from 142.165.14.51: icmp_seq=6 ttl=243 time=58.5 ms
+64 bytes from 142.165.14.51: icmp_seq=7 ttl=243 time=59.5 ms
+64 bytes from 142.165.14.51: icmp_seq=8 ttl=243 time=60.6 ms
+64 bytes from 142.165.14.51: icmp_seq=9 ttl=243 time=57.9 ms
+64 bytes from 142.165.14.51: icmp_seq=10 ttl=243 time=58.5 ms
+
+--- 142.165.14.51 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 57.596/58.922/60.668/1.042 ms
+
+
+Tracing route to 142.165.14.51.
+
+traceroute to 142.165.14.51 (142.165.14.51), 30 hops max, 60 byte packets
+ 1  142.165.0.109 (142.165.0.109)  55.549 ms  55.546 ms  55.539 ms
+ 2  * 142.165.60.129 (142.165.60.129)  54.942 ms  62.797 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+207.35.8.166, Pickering (43.8479, -79.3288)
+
+Time: 1547446061
+PING 207.35.8.166 (207.35.8.166) 56(84) bytes of data.
+64 bytes from 207.35.8.166: icmp_seq=1 ttl=49 time=27.5 ms
+64 bytes from 207.35.8.166: icmp_seq=2 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=3 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=4 ttl=49 time=28.4 ms
+64 bytes from 207.35.8.166: icmp_seq=5 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=6 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=7 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=8 ttl=49 time=27.5 ms
+64 bytes from 207.35.8.166: icmp_seq=9 ttl=49 time=26.8 ms
+64 bytes from 207.35.8.166: icmp_seq=10 ttl=49 time=26.8 ms
+
+--- 207.35.8.166 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 26.808/27.134/28.443/0.540 ms
+
+
+Tracing route to 207.35.8.166.
+
+traceroute to 207.35.8.166 (207.35.8.166), 30 hops max, 60 byte packets
+ 1  tcore4-newyorkaa_bundle-ether1.net.bell.ca (64.230.79.174)  28.935 ms  22.773 ms tcore3-newyorkaa_bundle-ether1.net.bell.ca (64.230.79.172)  23.651 ms
+ 2  64.230.78.137 (64.230.78.137)  25.396 ms tcore3-montreal01_hundredgige0-12-0-0.net.bell.ca (64.230.79.145)  22.778 ms 64.230.78.137 (64.230.78.137)  25.554 ms
+ 3  tcore3-toronto47_bundle-ether33.net.bell.ca (64.230.78.188)  29.245 ms  29.233 ms  25.179 ms
+ 4  dis4-unionville55_0-0-0.net.bell.ca (64.230.49.191)  24.799 ms  24.251 ms  24.975 ms
+ 5  207.35.8.166 (207.35.8.166)  26.864 ms  26.765 ms  26.764 ms
+Traceroute complete.
+
+
+
+
+64.141.6.254, Victoria (50.0769, -125.5909)
+
+Time: 1547446070
+PING 64.141.6.254 (64.141.6.254) 56(84) bytes of data.
+64 bytes from 64.141.6.254: icmp_seq=1 ttl=50 time=62.5 ms
+64 bytes from 64.141.6.254: icmp_seq=2 ttl=50 time=62.8 ms
+64 bytes from 64.141.6.254: icmp_seq=3 ttl=50 time=62.5 ms
+64 bytes from 64.141.6.254: icmp_seq=4 ttl=50 time=62.6 ms
+64 bytes from 64.141.6.254: icmp_seq=5 ttl=50 time=62.6 ms
+64 bytes from 64.141.6.254: icmp_seq=6 ttl=50 time=62.3 ms
+64 bytes from 64.141.6.254: icmp_seq=7 ttl=50 time=62.3 ms
+64 bytes from 64.141.6.254: icmp_seq=8 ttl=50 time=62.3 ms
+64 bytes from 64.141.6.254: icmp_seq=9 ttl=50 time=62.3 ms
+64 bytes from 64.141.6.254: icmp_seq=10 ttl=50 time=62.3 ms
+
+--- 64.141.6.254 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 62.331/62.498/62.811/0.172 ms
+
+
+Tracing route to 64.141.6.254.
+
+traceroute to 64.141.6.254 (64.141.6.254), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  rd2cv-be10.gv.shawcable.net (66.163.68.17)  59.732 ms  59.774 ms  60.032 ms
+ 3  rd1cv-tge0-4-0-0.gv.shawcable.net (66.163.72.21)  59.192 ms  59.433 ms  59.633 ms
+ 4  rd1bb-tge0-0-3-0.no.shawcable.net (66.163.72.6)  59.424 ms  59.927 ms  59.165 ms
+ 5  h64-141-4-254.bigpipeinc.com (64.141.6.254)  63.034 ms  62.839 ms  62.879 ms
+Traceroute complete.
+
+
+
+
+216.238.224.143, Caroline (51.1264, -114.1419)
+
+Time: 1547446080
+PING 216.238.224.143 (216.238.224.143) 56(84) bytes of data.
+64 bytes from 216.238.224.143: icmp_seq=1 ttl=113 time=68.3 ms
+64 bytes from 216.238.224.143: icmp_seq=2 ttl=113 time=67.8 ms
+64 bytes from 216.238.224.143: icmp_seq=3 ttl=113 time=67.9 ms
+64 bytes from 216.238.224.143: icmp_seq=4 ttl=113 time=68.0 ms
+64 bytes from 216.238.224.143: icmp_seq=5 ttl=113 time=68.1 ms
+64 bytes from 216.238.224.143: icmp_seq=6 ttl=113 time=67.8 ms
+64 bytes from 216.238.224.143: icmp_seq=7 ttl=113 time=67.8 ms
+64 bytes from 216.238.224.143: icmp_seq=8 ttl=113 time=67.8 ms
+64 bytes from 216.238.224.143: icmp_seq=9 ttl=113 time=67.9 ms
+64 bytes from 216.238.224.143: icmp_seq=10 ttl=113 time=68.0 ms
+
+--- 216.238.224.143 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 67.802/67.983/68.372/0.387 ms
+
+
+Tracing route to 216.238.224.143.
+
+traceroute to 216.238.224.143 (216.238.224.143), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  206.75.133.38 (206.75.133.38)  62.667 ms  62.662 ms  62.633 ms
+ 3  * * *
+ 4  * * *
+ 5  * * ns10.cciwireless.ca (216.238.224.143)  58.470 ms
+Traceroute complete.
+
+
+
+
+142.165.132.126, Radisson (52.0111, -106.7955)
+
+Time: 1547446090
+PING 142.165.132.126 (142.165.132.126) 56(84) bytes of data.
+64 bytes from 142.165.132.126: icmp_seq=1 ttl=243 time=78.3 ms
+64 bytes from 142.165.132.126: icmp_seq=2 ttl=243 time=77.8 ms
+64 bytes from 142.165.132.126: icmp_seq=3 ttl=243 time=77.1 ms
+64 bytes from 142.165.132.126: icmp_seq=4 ttl=243 time=77.1 ms
+64 bytes from 142.165.132.126: icmp_seq=5 ttl=243 time=78.1 ms
+64 bytes from 142.165.132.126: icmp_seq=6 ttl=243 time=76.8 ms
+64 bytes from 142.165.132.126: icmp_seq=7 ttl=243 time=78.1 ms
+64 bytes from 142.165.132.126: icmp_seq=8 ttl=243 time=78.1 ms
+64 bytes from 142.165.132.126: icmp_seq=9 ttl=243 time=77.1 ms
+64 bytes from 142.165.132.126: icmp_seq=10 ttl=243 time=77.3 ms
+
+--- 142.165.132.126 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 76.864/77.646/78.324/0.624 ms
+
+
+Tracing route to 142.165.132.126.
+
+traceroute to 142.165.132.126 (142.165.132.126), 30 hops max, 60 byte packets
+ 1  142.165.0.113 (142.165.0.113)  53.345 ms  57.048 ms 142.165.0.109 (142.165.0.109)  54.009 ms
+ 2  * 142.165.60.130 (142.165.60.130)  62.924 ms *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  142-165-132-126.sktn.static.sasknet.sk.ca (142.165.132.126)  77.898 ms * *
+Traceroute complete.
+
+
+
+
+216.171.252.54, Aledo (32.7004, -97.6039)
+
+Time: 1547446109
+PING 216.171.252.54 (216.171.252.54) 56(84) bytes of data.
+64 bytes from 216.171.252.54: icmp_seq=1 ttl=46 time=54.7 ms
+64 bytes from 216.171.252.54: icmp_seq=2 ttl=46 time=45.2 ms
+64 bytes from 216.171.252.54: icmp_seq=3 ttl=46 time=41.1 ms
+64 bytes from 216.171.252.54: icmp_seq=4 ttl=46 time=39.7 ms
+64 bytes from 216.171.252.54: icmp_seq=5 ttl=46 time=48.1 ms
+64 bytes from 216.171.252.54: icmp_seq=6 ttl=46 time=37.0 ms
+64 bytes from 216.171.252.54: icmp_seq=7 ttl=46 time=37.1 ms
+64 bytes from 216.171.252.54: icmp_seq=8 ttl=46 time=38.2 ms
+64 bytes from 216.171.252.54: icmp_seq=9 ttl=46 time=37.5 ms
+64 bytes from 216.171.252.54: icmp_seq=10 ttl=46 time=39.8 ms
+
+--- 216.171.252.54 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9004ms
+rtt min/avg/max/mdev = 37.067/41.894/54.738/5.505 ms
+
+
+Tracing route to 216.171.252.54.
+
+traceroute to 216.171.252.54 (216.171.252.54), 30 hops max, 60 byte packets
+ 1  b1.dist.upr.rtr.belwave.net (216.195.96.50)  34.758 ms  34.735 ms  34.513 ms
+ 2  54-96-195-216.belwave.net (216.195.96.54)  34.503 ms  34.718 ms  34.469 ms
+ 3  10-246-171-216.belwave.net (216.171.246.10)  34.684 ms  34.803 ms  34.737 ms
+ 4  142-252-171-216.aledobroadband.com (216.171.252.142)  38.938 ms  38.514 ms  38.492 ms
+ 5  146-252-171-216.aledobroadband.com (216.171.252.146)  55.595 ms  53.880 ms  55.589 ms
+ 6  54-252-171-216.aledobroadband.com (216.171.252.54)  55.707 ms  36.093 ms  38.202 ms
+Traceroute complete.
+
+
+
+
+216.155.123.34, Gainesville (29.6489, -82.325)
+
+Time: 1547446119
+PING 216.155.123.34 (216.155.123.34) 56(84) bytes of data.
+64 bytes from 216.155.123.34: icmp_seq=1 ttl=114 time=29.1 ms
+64 bytes from 216.155.123.34: icmp_seq=2 ttl=114 time=28.7 ms
+64 bytes from 216.155.123.34: icmp_seq=3 ttl=114 time=28.7 ms
+64 bytes from 216.155.123.34: icmp_seq=4 ttl=114 time=28.7 ms
+64 bytes from 216.155.123.34: icmp_seq=5 ttl=114 time=28.7 ms
+64 bytes from 216.155.123.34: icmp_seq=6 ttl=114 time=28.7 ms
+64 bytes from 216.155.123.34: icmp_seq=7 ttl=114 time=28.8 ms
+64 bytes from 216.155.123.34: icmp_seq=8 ttl=114 time=28.8 ms
+64 bytes from 216.155.123.34: icmp_seq=9 ttl=114 time=28.9 ms
+64 bytes from 216.155.123.34: icmp_seq=10 ttl=114 time=28.7 ms
+
+--- 216.155.123.34 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 28.700/28.814/29.131/0.210 ms
+
+
+Tracing route to 216.155.123.34.
+
+traceroute to 216.155.123.34 (216.155.123.34), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  co1-juniper-to-co2-juniper.ptp.gru.net (209.251.129.101)  29.393 ms  29.411 ms  29.401 ms
+ 3  209.251.128.180 (209.251.128.180)  29.713 ms  29.393 ms  29.379 ms
+ 4  216.155.100.213 (216.155.100.213)  29.664 ms  29.418 ms  29.357 ms
+ 5  216.155.100.209 (216.155.100.209)  29.461 ms  29.651 ms  29.648 ms
+ 6  sahure.acceleration.net (216.155.123.34)  29.329 ms * *
+Traceroute complete.
+
+
+
+
+50.48.30.41, Rochester (43.0834, -77.6344)
+
+Time: 1547446129
+PING 50.48.30.41 (50.48.30.41) 56(84) bytes of data.
+64 bytes from 50.48.30.41: icmp_seq=1 ttl=47 time=31.3 ms
+64 bytes from 50.48.30.41: icmp_seq=2 ttl=47 time=30.7 ms
+64 bytes from 50.48.30.41: icmp_seq=3 ttl=47 time=31.1 ms
+64 bytes from 50.48.30.41: icmp_seq=4 ttl=47 time=31.4 ms
+64 bytes from 50.48.30.41: icmp_seq=5 ttl=47 time=30.9 ms
+64 bytes from 50.48.30.41: icmp_seq=6 ttl=47 time=30.2 ms
+64 bytes from 50.48.30.41: icmp_seq=7 ttl=47 time=30.1 ms
+64 bytes from 50.48.30.41: icmp_seq=8 ttl=47 time=30.2 ms
+64 bytes from 50.48.30.41: icmp_seq=9 ttl=47 time=30.1 ms
+64 bytes from 50.48.30.41: icmp_seq=10 ttl=47 time=30.3 ms
+
+--- 50.48.30.41 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 30.100/30.677/31.456/0.525 ms
+
+
+Tracing route to 50.48.30.41.
+
+traceroute to 50.48.30.41 (50.48.30.41), 30 hops max, 60 byte packets
+ 1  ae4---0.cor01.roch.ny.frontiernet.net (74.40.5.13)  14.678 ms  14.674 ms  20.765 ms
+ 2  ae0---0.car03.roch.ny.frontiernet.net (74.40.1.58)  17.171 ms  15.031 ms  17.220 ms
+ 3  74.40.71.26 (74.40.71.26)  15.188 ms  15.167 ms 74.40.71.82 (74.40.71.82)  15.354 ms
+ 4  * 50.48.30.41 (50.48.30.41)  38.977 ms  36.351 ms
+Traceroute complete.
+
+
+
+
+64.79.224.2, Birmingham (33.521, -86.8066)
+
+Time: 1547446138
+PING 64.79.224.2 (64.79.224.2) 56(84) bytes of data.
+
+--- 64.79.224.2 ping statistics ---
+10 packets transmitted, 0 received, 100% packet loss, time 9205ms
+
+
+
+Tracing route to 64.79.224.2.
+
+traceroute to 64.79.224.2 (64.79.224.2), 30 hops max, 60 byte packets
+ 1  108.170.246.3 (108.170.246.3)  2.035 ms !N  1.359 ms !N *
+Traceroute complete.
+
+
+
+
+50.44.20.30, Forreston (41.9295, -88.7504)
+
+Time: 1547446157
+PING 50.44.20.30 (50.44.20.30) 56(84) bytes of data.
+64 bytes from 50.44.20.30: icmp_seq=1 ttl=51 time=26.7 ms
+64 bytes from 50.44.20.30: icmp_seq=2 ttl=51 time=26.2 ms
+64 bytes from 50.44.20.30: icmp_seq=3 ttl=51 time=26.1 ms
+64 bytes from 50.44.20.30: icmp_seq=4 ttl=51 time=26.3 ms
+64 bytes from 50.44.20.30: icmp_seq=5 ttl=51 time=26.6 ms
+64 bytes from 50.44.20.30: icmp_seq=6 ttl=51 time=26.3 ms
+64 bytes from 50.44.20.30: icmp_seq=7 ttl=51 time=26.1 ms
+64 bytes from 50.44.20.30: icmp_seq=8 ttl=51 time=26.4 ms
+64 bytes from 50.44.20.30: icmp_seq=9 ttl=51 time=27.7 ms
+64 bytes from 50.44.20.30: icmp_seq=10 ttl=51 time=26.6 ms
+
+--- 50.44.20.30 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 26.146/26.548/27.727/0.457 ms
+
+
+Tracing route to 50.44.20.30.
+
+traceroute to 50.44.20.30 (50.44.20.30), 30 hops max, 60 byte packets
+ 1  ae0---0.adr01.dklb.il.frontiernet.net (74.40.70.26)  21.380 ms  32.019 ms  24.837 ms
+ 2  static-50-44-20-30.dklb.il.frontiernet.net (50.44.20.30)  27.121 ms *  26.457 ms
+Traceroute complete.
+
+
+
+
+198.15.67.245, Tempe (33.6227, -111.9261)
+
+Time: 1547446166
+PING 198.15.67.245 (198.15.67.245) 56(84) bytes of data.
+64 bytes from 198.15.67.245: icmp_seq=1 ttl=112 time=69.0 ms
+64 bytes from 198.15.67.245: icmp_seq=2 ttl=112 time=68.6 ms
+64 bytes from 198.15.67.245: icmp_seq=3 ttl=112 time=68.8 ms
+64 bytes from 198.15.67.245: icmp_seq=4 ttl=112 time=68.6 ms
+64 bytes from 198.15.67.245: icmp_seq=5 ttl=112 time=68.5 ms
+64 bytes from 198.15.67.245: icmp_seq=6 ttl=112 time=68.5 ms
+64 bytes from 198.15.67.245: icmp_seq=7 ttl=112 time=68.4 ms
+64 bytes from 198.15.67.245: icmp_seq=8 ttl=112 time=69.2 ms
+64 bytes from 198.15.67.245: icmp_seq=9 ttl=112 time=68.6 ms
+64 bytes from 198.15.67.245: icmp_seq=10 ttl=112 time=71.8 ms
+
+--- 198.15.67.245 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 68.492/69.050/71.810/0.953 ms
+
+
+Tracing route to 198.15.67.245.
+
+traceroute to 198.15.67.245 (198.15.67.245), 30 hops max, 60 byte packets
+ 1  108.170.230.122 (108.170.230.122)  61.244 ms 108.170.234.24 (108.170.234.24)  61.193 ms 108.170.230.124 (108.170.230.124)  61.386 ms
+ 2  108.170.247.213 (108.170.247.213)  61.380 ms 108.170.247.245 (108.170.247.245)  61.377 ms 108.170.247.152 (108.170.247.152)  61.366 ms
+ 3  98.143.32.97 (98.143.32.97)  61.179 ms  61.352 ms  61.156 ms
+ 4  vl3.bb2.pnap.140.1.6.phx0.cwie.net (98.143.32.66)  69.020 ms  69.277 ms vl3.bb1.pnap.140.1.5.phx0.cwie.net (98.143.32.65)  68.890 ms
+ 5  108.170.0.9 (108.170.0.9)  69.083 ms 108.170.0.29 (108.170.0.29)  69.635 ms 108.170.0.9 (108.170.0.9)  68.980 ms
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+66.187.166.250, Monroe (34.8946, -80.5540)
+
+Time: 1547446201
+PING 66.187.166.250 (66.187.166.250) 56(84) bytes of data.
+64 bytes from 66.187.166.250: icmp_seq=1 ttl=45 time=30.1 ms
+64 bytes from 66.187.166.250: icmp_seq=2 ttl=45 time=24.8 ms
+64 bytes from 66.187.166.250: icmp_seq=3 ttl=45 time=27.1 ms
+64 bytes from 66.187.166.250: icmp_seq=4 ttl=45 time=24.0 ms
+64 bytes from 66.187.166.250: icmp_seq=5 ttl=45 time=20.7 ms
+64 bytes from 66.187.166.250: icmp_seq=6 ttl=45 time=28.9 ms
+64 bytes from 66.187.166.250: icmp_seq=7 ttl=45 time=29.7 ms
+64 bytes from 66.187.166.250: icmp_seq=8 ttl=45 time=28.0 ms
+64 bytes from 66.187.166.250: icmp_seq=9 ttl=45 time=21.6 ms
+64 bytes from 66.187.166.250: icmp_seq=10 ttl=45 time=32.0 ms
+
+--- 66.187.166.250 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 20.745/26.734/32.002/3.585 ms
+
+
+Tracing route to 66.187.166.250.
+
+traceroute to 66.187.166.250 (66.187.166.250), 30 hops max, 60 byte packets
+ 1  DW.CHLT.BOA.R002.G12.Dasia.Net (66.187.161.22)  19.650 ms  19.641 ms  19.037 ms
+ 2  DW.MON.UCGOV.R000.1.190.Dasia.Net (66.187.160.66)  23.660 ms  23.315 ms  23.321 ms
+ 3  250.166.187.66.static.Dasia.Net (66.187.166.250)  30.218 ms *  30.194 ms
+Traceroute complete.
+
+
+
+
+24.229.11.2, Stroudsburg (40.9877, -75.2485)
+
+Time: 1547446210
+PING 24.229.11.2 (24.229.11.2) 56(84) bytes of data.
+64 bytes from 24.229.11.2: icmp_seq=1 ttl=52 time=17.2 ms
+64 bytes from 24.229.11.2: icmp_seq=2 ttl=52 time=15.3 ms
+64 bytes from 24.229.11.2: icmp_seq=3 ttl=52 time=15.7 ms
+64 bytes from 24.229.11.2: icmp_seq=4 ttl=52 time=15.4 ms
+64 bytes from 24.229.11.2: icmp_seq=5 ttl=52 time=15.8 ms
+64 bytes from 24.229.11.2: icmp_seq=6 ttl=52 time=15.4 ms
+64 bytes from 24.229.11.2: icmp_seq=7 ttl=52 time=15.8 ms
+64 bytes from 24.229.11.2: icmp_seq=8 ttl=52 time=15.5 ms
+64 bytes from 24.229.11.2: icmp_seq=9 ttl=52 time=15.3 ms
+64 bytes from 24.229.11.2: icmp_seq=10 ttl=52 time=15.8 ms
+
+--- 24.229.11.2 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 15.349/15.781/17.250/0.533 ms
+
+
+Tracing route to 24.229.11.2.
+
+traceroute to 24.229.11.2 (24.229.11.2), 30 hops max, 60 byte packets
+ 1  cpe-static-monroecountycourtadmin-rtr.cmts.sth3.ptd.net (24.229.11.2)  20.631 ms *  20.571 ms
+Traceroute complete.
+
+
+
+
+216.52.65.1, Dover, (39.1605, -75.5974)
+
+Time: 1547446219
+PING 216.52.65.1 (216.52.65.1) 56(84) bytes of data.
+64 bytes from 216.52.65.1: icmp_seq=1 ttl=44 time=10.9 ms
+64 bytes from 216.52.65.1: icmp_seq=2 ttl=44 time=10.6 ms
+64 bytes from 216.52.65.1: icmp_seq=3 ttl=44 time=10.3 ms
+64 bytes from 216.52.65.1: icmp_seq=4 ttl=44 time=10.4 ms
+64 bytes from 216.52.65.1: icmp_seq=5 ttl=44 time=10.4 ms
+64 bytes from 216.52.65.1: icmp_seq=6 ttl=44 time=10.3 ms
+64 bytes from 216.52.65.1: icmp_seq=7 ttl=44 time=10.4 ms
+64 bytes from 216.52.65.1: icmp_seq=8 ttl=44 time=10.3 ms
+64 bytes from 216.52.65.1: icmp_seq=9 ttl=44 time=10.4 ms
+64 bytes from 216.52.65.1: icmp_seq=10 ttl=44 time=10.4 ms
+
+--- 216.52.65.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 10.333/10.481/10.951/0.195 ms
+
+
+Tracing route to 216.52.65.1.
+
+traceroute to 216.52.65.1 (216.52.65.1), 30 hops max, 60 byte packets
+ 1  bbr2.ae7.nym007.pnap.net (64.95.158.74)  7.805 ms  7.796 ms core4.be4.inapvox-lag.nym007.pnap.net (64.95.158.218)  8.560 ms
+ 2  core4.be4.inapvox-lag.nym007.pnap.net (64.95.158.218)  8.206 ms  7.773 ms border3-ae1-0.nym007.pnap.net (216.52.95.20)  7.342 ms
+ 3  border3-ae1-0.nym007.pnap.net (216.52.95.20)  7.141 ms mpr1.te2-0-0.phi-nym007.phi.pnap.net (216.52.93.94)  10.460 ms core4.be4.inapvox-lag.nym007.pnap.net (64.95.158.218)  13.396 ms
+ 4  ns1.phi.pnap.net (216.52.65.1)  11.518 ms *  11.506 ms
+Traceroute complete.
+
+
+
+
+216.52.126.1, Rockville, (39.0870, -77.1680)
+
+Time: 1547446229
+PING 216.52.126.1 (216.52.126.1) 56(84) bytes of data.
+64 bytes from 216.52.126.1: icmp_seq=1 ttl=55 time=0.876 ms
+64 bytes from 216.52.126.1: icmp_seq=2 ttl=55 time=0.666 ms
+64 bytes from 216.52.126.1: icmp_seq=3 ttl=55 time=0.681 ms
+64 bytes from 216.52.126.1: icmp_seq=4 ttl=55 time=0.687 ms
+64 bytes from 216.52.126.1: icmp_seq=5 ttl=55 time=0.631 ms
+64 bytes from 216.52.126.1: icmp_seq=6 ttl=55 time=0.627 ms
+64 bytes from 216.52.126.1: icmp_seq=7 ttl=55 time=0.681 ms
+64 bytes from 216.52.126.1: icmp_seq=8 ttl=55 time=0.658 ms
+64 bytes from 216.52.126.1: icmp_seq=9 ttl=55 time=0.652 ms
+64 bytes from 216.52.126.1: icmp_seq=10 ttl=55 time=0.599 ms
+
+--- 216.52.126.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9163ms
+rtt min/avg/max/mdev = 0.599/0.675/0.876/0.078 ms
+
+
+Tracing route to 216.52.126.1.
+
+traceroute to 216.52.126.1 (216.52.126.1), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * ns1.wdc002.pnap.net (216.52.126.1)  1.579 ms  1.745 ms
+Traceroute complete.
+
+
+
+
+74.207.242.213, Fremont, (37.5605, -122.0000)
+
+Time: 1547446238
+PING 74.207.242.213 (74.207.242.213) 56(84) bytes of data.
+64 bytes from 74.207.242.213: icmp_seq=1 ttl=50 time=63.1 ms
+64 bytes from 74.207.242.213: icmp_seq=2 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=3 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=4 ttl=50 time=62.5 ms
+64 bytes from 74.207.242.213: icmp_seq=5 ttl=50 time=62.5 ms
+64 bytes from 74.207.242.213: icmp_seq=6 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=7 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=8 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=9 ttl=50 time=62.6 ms
+64 bytes from 74.207.242.213: icmp_seq=10 ttl=50 time=62.7 ms
+
+--- 74.207.242.213 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 62.561/62.689/63.183/0.203 ms
+
+
+Tracing route to 74.207.242.213.
+
+traceroute to 74.207.242.213 (74.207.242.213), 30 hops max, 60 byte packets
+ 1  66.249.94.28 (66.249.94.28)  60.517 ms 74.125.253.191 (74.125.253.191)  60.105 ms  60.078 ms
+ 2  108.170.242.233 (108.170.242.233)  61.326 ms 108.170.243.9 (108.170.243.9)  61.306 ms 108.170.242.89 (108.170.242.89)  61.144 ms
+ 3  as63949.sfmix.org (206.197.187.40)  64.946 ms  64.687 ms  64.924 ms
+ 4  173.230.159.65 (173.230.159.65)  65.339 ms  64.936 ms 173.230.159.67 (173.230.159.67)  64.772 ms
+ 5  li84-213.members.linode.com (74.207.242.213)  63.013 ms  63.012 ms  62.909 ms
+Traceroute complete.
+
+
+
+
+66.218.44.5, San Jose, (37.3388, -121.8910)
+
+Time: 1547446249
+PING 66.218.44.5 (66.218.44.5) 56(84) bytes of data.
+64 bytes from 66.218.44.5: icmp_seq=1 ttl=46 time=67.7 ms
+64 bytes from 66.218.44.5: icmp_seq=2 ttl=46 time=67.6 ms
+64 bytes from 66.218.44.5: icmp_seq=3 ttl=46 time=67.5 ms
+64 bytes from 66.218.44.5: icmp_seq=4 ttl=46 time=67.5 ms
+64 bytes from 66.218.44.5: icmp_seq=5 ttl=46 time=67.5 ms
+64 bytes from 66.218.44.5: icmp_seq=6 ttl=46 time=67.4 ms
+64 bytes from 66.218.44.5: icmp_seq=7 ttl=46 time=67.5 ms
+64 bytes from 66.218.44.5: icmp_seq=8 ttl=46 time=67.4 ms
+64 bytes from 66.218.44.5: icmp_seq=9 ttl=46 time=67.6 ms
+64 bytes from 66.218.44.5: icmp_seq=10 ttl=46 time=67.5 ms
+
+--- 66.218.44.5 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 67.477/67.568/67.769/0.144 ms
+
+
+Tracing route to 66.218.44.5.
+
+traceroute to 66.218.44.5 (66.218.44.5), 30 hops max, 60 byte packets
+ 1  internap-ic-140172-sjo-b21.c.telia.net (213.248.81.134)  69.751 ms  69.807 ms  69.629 ms
+ 2  border5.pc2-bbnet2.sje.pnap.net (66.151.144.82)  79.177 ms  68.368 ms 66.151.144.18 (66.151.144.18)  68.941 ms
+ 3  qualityspeak-4.edge1.sje.pnap.net (70.42.255.202)  69.056 ms  68.602 ms  69.274 ms
+ 4  ns5.dslextreme.com (66.218.44.5)  69.258 ms !X  68.137 ms !X  67.851 ms !X
+Traceroute complete.
+
+
+
+
+198.82.247.34, Blacksburg, (37.1791, -80.3515)
+
+Time: 1547446259
+PING 198.82.247.34 (198.82.247.34) 56(84) bytes of data.
+64 bytes from 198.82.247.34: icmp_seq=1 ttl=51 time=7.71 ms
+64 bytes from 198.82.247.34: icmp_seq=2 ttl=51 time=7.52 ms
+64 bytes from 198.82.247.34: icmp_seq=3 ttl=51 time=7.22 ms
+64 bytes from 198.82.247.34: icmp_seq=4 ttl=51 time=7.30 ms
+64 bytes from 198.82.247.34: icmp_seq=5 ttl=51 time=7.33 ms
+64 bytes from 198.82.247.34: icmp_seq=6 ttl=51 time=7.38 ms
+64 bytes from 198.82.247.34: icmp_seq=7 ttl=51 time=7.34 ms
+64 bytes from 198.82.247.34: icmp_seq=8 ttl=51 time=7.29 ms
+64 bytes from 198.82.247.34: icmp_seq=9 ttl=51 time=7.41 ms
+64 bytes from 198.82.247.34: icmp_seq=10 ttl=51 time=7.38 ms
+
+--- 198.82.247.34 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 7.224/7.391/7.715/0.138 ms
+
+
+Tracing route to 198.82.247.34.
+
+traceroute to 198.82.247.34 (198.82.247.34), 30 hops max, 60 byte packets
+ 1  yardbird.cns.vt.edu (198.82.247.34)  8.042 ms  7.679 ms *
+Traceroute complete.
+
+
+
+
+216.52.169.1, Houston, (29.6709, -95.5866)
+
+Time: 1547446268
+PING 216.52.169.1 (216.52.169.1) 56(84) bytes of data.
+64 bytes from 216.52.169.1: icmp_seq=1 ttl=45 time=39.3 ms
+64 bytes from 216.52.169.1: icmp_seq=2 ttl=45 time=38.9 ms
+64 bytes from 216.52.169.1: icmp_seq=3 ttl=45 time=38.8 ms
+64 bytes from 216.52.169.1: icmp_seq=4 ttl=45 time=38.6 ms
+64 bytes from 216.52.169.1: icmp_seq=5 ttl=45 time=38.6 ms
+64 bytes from 216.52.169.1: icmp_seq=6 ttl=45 time=38.5 ms
+64 bytes from 216.52.169.1: icmp_seq=7 ttl=45 time=38.5 ms
+64 bytes from 216.52.169.1: icmp_seq=8 ttl=45 time=38.5 ms
+64 bytes from 216.52.169.1: icmp_seq=9 ttl=45 time=38.5 ms
+64 bytes from 216.52.169.1: icmp_seq=10 ttl=45 time=38.5 ms
+
+--- 216.52.169.1 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9015ms
+rtt min/avg/max/mdev = 38.516/38.723/39.376/0.326 ms
+
+
+Tracing route to 216.52.169.1.
+
+traceroute to 216.52.169.1 (216.52.169.1), 30 hops max, 60 byte packets
+ 1  border5.ae2-bbnet1.dal006.pnap.net (216.52.191.109)  32.015 ms border5.ae1-bbnet1.dal006.pnap.net (216.52.191.44)  32.653 ms  31.954 ms
+ 2  core3.te-0-0-0-2.hou-dalext1a-1.hou.pnap.net (63.251.44.42)  42.210 ms  42.425 ms  43.625 ms
+ 3  border4.ae2-bbnet2.hou.pnap.net (216.52.168.66)  39.047 ms  38.884 ms border4.ae1-bbnet1.hou.pnap.net (216.52.168.2)  38.562 ms
+ 4  ns1.hou.pnap.net (216.52.169.1)  39.214 ms  38.561 ms *
+Traceroute complete.
+
+
+
+
+
+
+24.154.1.4, Erie, (40.8859, -79.9340)
+
+Time: 1547446287
+PING 24.154.1.4 (24.154.1.4) 56(84) bytes of data.
+64 bytes from 24.154.1.4: icmp_seq=1 ttl=54 time=10.0 ms
+64 bytes from 24.154.1.4: icmp_seq=2 ttl=54 time=9.45 ms
+64 bytes from 24.154.1.4: icmp_seq=3 ttl=54 time=9.49 ms
+64 bytes from 24.154.1.4: icmp_seq=4 ttl=54 time=9.46 ms
+64 bytes from 24.154.1.4: icmp_seq=5 ttl=54 time=9.46 ms
+64 bytes from 24.154.1.4: icmp_seq=6 ttl=54 time=9.47 ms
+64 bytes from 24.154.1.4: icmp_seq=7 ttl=54 time=9.56 ms
+64 bytes from 24.154.1.4: icmp_seq=8 ttl=54 time=9.55 ms
+64 bytes from 24.154.1.4: icmp_seq=9 ttl=54 time=9.47 ms
+64 bytes from 24.154.1.4: icmp_seq=10 ttl=54 time=9.60 ms
+
+--- 24.154.1.4 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 9.458/9.560/10.054/0.171 ms
+
+
+Tracing route to 24.154.1.4.
+
+traceroute to 24.154.1.4 (24.154.1.4), 30 hops max, 60 byte packets
+ 1  * * pitt-b1-link.telia.net (62.115.124.6)  22.654 ms
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+50.116.23.211, Dallas, (32.7787, -96.8217)
+
+Time: 1547446326
+PING 50.116.23.211 (50.116.23.211) 56(84) bytes of data.
+64 bytes from 50.116.23.211: icmp_seq=1 ttl=50 time=33.1 ms
+64 bytes from 50.116.23.211: icmp_seq=2 ttl=50 time=33.2 ms
+64 bytes from 50.116.23.211: icmp_seq=3 ttl=50 time=32.7 ms
+64 bytes from 50.116.23.211: icmp_seq=4 ttl=50 time=32.8 ms
+64 bytes from 50.116.23.211: icmp_seq=5 ttl=50 time=32.6 ms
+64 bytes from 50.116.23.211: icmp_seq=6 ttl=50 time=33.1 ms
+64 bytes from 50.116.23.211: icmp_seq=7 ttl=50 time=32.9 ms
+64 bytes from 50.116.23.211: icmp_seq=8 ttl=50 time=32.9 ms
+64 bytes from 50.116.23.211: icmp_seq=9 ttl=50 time=32.9 ms
+64 bytes from 50.116.23.211: icmp_seq=10 ttl=50 time=32.7 ms
+
+--- 50.116.23.211 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 32.645/32.937/33.255/0.240 ms
+
+
+Tracing route to 50.116.23.211.
+
+traceroute to 50.116.23.211 (50.116.23.211), 30 hops max, 60 byte packets
+ 1  108.170.252.167 (108.170.252.167)  32.753 ms 108.170.240.132 (108.170.240.132)  32.522 ms 108.170.252.167 (108.170.252.167)  32.739 ms
+ 2  de-cix.dfw.linode.com (206.53.202.7)  33.959 ms EQIX-IX-DA.linode.com (206.223.118.107)  33.739 ms de-cix.dfw.linode.com (206.53.202.7)  33.830 ms
+ 3  45.79.12.3 (45.79.12.3)  33.730 ms  33.815 ms 45.79.12.1 (45.79.12.1)  33.701 ms
+ 4  www.eqnic.net (50.116.23.211)  33.691 ms  33.676 ms  33.675 ms
+Traceroute complete.
+
+
+
+
+216.143.135.11, Dover, (39.1605, -75.5974)
+
+Time: 1547446337
+PING 216.143.135.11 (216.143.135.11) 56(84) bytes of data.
+64 bytes from 216.143.135.11: icmp_seq=1 ttl=116 time=11.2 ms
+64 bytes from 216.143.135.11: icmp_seq=2 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=3 ttl=116 time=10.7 ms
+64 bytes from 216.143.135.11: icmp_seq=4 ttl=116 time=10.7 ms
+64 bytes from 216.143.135.11: icmp_seq=5 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=6 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=7 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=8 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=9 ttl=116 time=10.6 ms
+64 bytes from 216.143.135.11: icmp_seq=10 ttl=116 time=10.7 ms
+
+--- 216.143.135.11 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9016ms
+rtt min/avg/max/mdev = 10.653/10.753/11.273/0.224 ms
+
+
+Tracing route to 216.143.135.11.
+
+traceroute to 216.143.135.11 (216.143.135.11), 30 hops max, 60 byte packets
+ 1  cust50-255-78-64-ny.nuvisions.net (64.78.255.50)  9.262 ms  9.351 ms  9.218 ms
+ 2  cust9-255-78-64-ny.nuvisions.net (64.78.255.9)  10.743 ms  10.974 ms  10.448 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+
+
+131.191.7.12, Puyallup, (47.1424, -122.2650)
+
+Time: 1547446385
+PING 131.191.7.12 (131.191.7.12) 56(84) bytes of data.
+64 bytes from 131.191.7.12: icmp_seq=1 ttl=113 time=57.7 ms
+64 bytes from 131.191.7.12: icmp_seq=2 ttl=113 time=57.5 ms
+64 bytes from 131.191.7.12: icmp_seq=3 ttl=113 time=57.5 ms
+64 bytes from 131.191.7.12: icmp_seq=4 ttl=113 time=57.4 ms
+64 bytes from 131.191.7.12: icmp_seq=5 ttl=113 time=57.2 ms
+64 bytes from 131.191.7.12: icmp_seq=6 ttl=113 time=57.3 ms
+64 bytes from 131.191.7.12: icmp_seq=7 ttl=113 time=57.3 ms
+64 bytes from 131.191.7.12: icmp_seq=8 ttl=113 time=57.2 ms
+64 bytes from 131.191.7.12: icmp_seq=9 ttl=113 time=57.4 ms
+64 bytes from 131.191.7.12: icmp_seq=10 ttl=113 time=57.3 ms
+
+--- 131.191.7.12 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 57.285/57.431/57.729/0.331 ms
+
+
+Tracing route to 131.191.7.12.
+
+traceroute to 131.191.7.12 (131.191.7.12), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  cr2-tuk2-be-4.bb.as11404.net (174.127.136.21)  59.376 ms  59.751 ms  59.348 ms
+ 3  br3-span-te-0-0-2.bb.spectrumnet.us (174.127.138.95)  59.107 ms br1-span-te-0-0-2.bb.spectrumnet.us (174.127.138.133)  59.514 ms br2-span-te-0-0-2.bb.spectrumnet.us (174.127.138.139)  60.538 ms
+ 4  cr1-tacn-te3-4.bb.spectrumnet.us (174.127.138.131)  59.479 ms cr1-tacn-t4-4.bb.spectrumnet.us (174.127.138.177)  59.469 ms cr1-tacn-t3-1.bb.spectrumnet.us (174.127.138.175)  59.453 ms
+ 5  click-network-tacn-20000M.demarc.spectrumnet.us (174.127.154.30)  59.862 ms  59.040 ms  59.497 ms
+ 6  click-network-tacn-20000M.demarc.spectrumnet.us (174.127.154.30)  58.993 ms !X  58.159 ms !X *
+Traceroute complete.
+
+
+
+
+
+
+209.216.160.131, Hood River, (45.6711, -121.5390)
+
+Time: 1547446434
+PING 209.216.160.131 (209.216.160.131) 56(84) bytes of data.
+64 bytes from 209.216.160.131: icmp_seq=1 ttl=115 time=62.5 ms
+64 bytes from 209.216.160.131: icmp_seq=2 ttl=115 time=62.0 ms
+64 bytes from 209.216.160.131: icmp_seq=3 ttl=115 time=62.1 ms
+64 bytes from 209.216.160.131: icmp_seq=4 ttl=115 time=62.1 ms
+64 bytes from 209.216.160.131: icmp_seq=5 ttl=115 time=62.2 ms
+64 bytes from 209.216.160.131: icmp_seq=6 ttl=115 time=62.1 ms
+64 bytes from 209.216.160.131: icmp_seq=7 ttl=115 time=62.1 ms
+64 bytes from 209.216.160.131: icmp_seq=8 ttl=115 time=62.1 ms
+64 bytes from 209.216.160.131: icmp_seq=9 ttl=115 time=63.1 ms
+64 bytes from 209.216.160.131: icmp_seq=10 ttl=115 time=62.0 ms
+
+--- 209.216.160.131 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9011ms
+rtt min/avg/max/mdev = 62.009/62.273/63.105/0.316 ms
+
+
+Tracing route to 209.216.160.131.
+
+traceroute to 209.216.160.131 (209.216.160.131), 30 hops max, 60 byte packets
+ 1  six.gorge.net (206.81.80.199)  56.533 ms  56.714 ms  56.476 ms
+ 2  static-broadband.177-194.gorge.net (209.216.177.194)  62.190 ms static-broadband.177-204.gorge.net (209.216.177.204)  62.253 ms static-broadband.177-194.gorge.net (209.216.177.194)  64.074 ms
+ 3  static-broadband.177-207.gorge.net (209.216.177.207)  62.262 ms  62.234 ms *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+69.67.97.18, Golden, (39.7305, -105.1910)
+
+Time: 1547446473
+PING 69.67.97.18 (69.67.97.18) 56(84) bytes of data.
+64 bytes from 69.67.97.18: icmp_seq=1 ttl=108 time=47.8 ms
+64 bytes from 69.67.97.18: icmp_seq=2 ttl=108 time=47.1 ms
+64 bytes from 69.67.97.18: icmp_seq=3 ttl=108 time=47.1 ms
+64 bytes from 69.67.97.18: icmp_seq=4 ttl=108 time=47.1 ms
+64 bytes from 69.67.97.18: icmp_seq=5 ttl=108 time=47.1 ms
+64 bytes from 69.67.97.18: icmp_seq=6 ttl=108 time=50.0 ms
+64 bytes from 69.67.97.18: icmp_seq=7 ttl=108 time=47.2 ms
+64 bytes from 69.67.97.18: icmp_seq=8 ttl=108 time=47.9 ms
+64 bytes from 69.67.97.18: icmp_seq=9 ttl=108 time=47.1 ms
+64 bytes from 69.67.97.18: icmp_seq=10 ttl=108 time=47.1 ms
+
+--- 69.67.97.18 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9013ms
+rtt min/avg/max/mdev = 47.172/47.616/50.050/0.855 ms
+
+
+Tracing route to 69.67.97.18.
+
+traceroute to 69.67.97.18 (69.67.97.18), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+64.79.224.3, Birmingham, (33.5210, -86.8066)
+
+Time: 1547446512
+PING 64.79.224.3 (64.79.224.3) 56(84) bytes of data.
+
+--- 64.79.224.3 ping statistics ---
+10 packets transmitted, 0 received, 100% packet loss, time 9193ms
+
+
+
+Tracing route to 64.79.224.3.
+
+traceroute to 64.79.224.3 (64.79.224.3), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  108.170.246.66 (108.170.246.66)  1.467 ms !N * *
+Traceroute complete.
+
+
+
+
+76.74.253.28, San Antonio, (29.4969, -98.4032)
+
+Time: 1547446537
+PING 76.74.253.28 (76.74.253.28) 56(84) bytes of data.
+64 bytes from 76.74.253.28: icmp_seq=1 ttl=113 time=81.8 ms
+64 bytes from 76.74.253.28: icmp_seq=2 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=3 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=4 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=5 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=6 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=7 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=8 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=9 ttl=113 time=81.2 ms
+64 bytes from 76.74.253.28: icmp_seq=10 ttl=113 time=81.2 ms
+
+--- 76.74.253.28 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 81.219/81.308/81.858/0.224 ms
+
+
+Tracing route to 76.74.253.28.
+
+traceroute to 76.74.253.28 (76.74.253.28), 30 hops max, 60 byte packets
+ 1  10ge.ae-2.nyc-telx-dis-2.peer1.net (216.187.113.165)  7.852 ms  7.881 ms  8.312 ms
+ 2  10ge.xe-1-2-0.chi-eqx-dis-1.peer1.net (216.187.88.209)  29.980 ms  30.057 ms  30.393 ms
+ 3  10ge-xe-0-1-1.dal-eqx-cor-1.peer1.net (216.187.124.73)  72.235 ms  72.301 ms  72.233 ms
+ 4  10ge.xe-3-0-1.sat-8500v-sbcor-1.peer1.net (216.187.88.112)  81.636 ms 10ge-xe-2-3-0.sat-8500v-sbcor-1.peer1.net (216.187.124.39)  82.038 ms 10ge.xe-3-0-1.sat-8500v-sbcor-1.peer1.net (216.187.88.112)  82.196 ms
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+50.62.11.69, Scottsdale, (33.6013, -111.8870)
+
+Time: 1547446571
+PING 50.62.11.69 (50.62.11.69) 56(84) bytes of data.
+64 bytes from 50.62.11.69: icmp_seq=1 ttl=112 time=69.5 ms
+64 bytes from 50.62.11.69: icmp_seq=2 ttl=112 time=68.8 ms
+64 bytes from 50.62.11.69: icmp_seq=3 ttl=112 time=68.9 ms
+64 bytes from 50.62.11.69: icmp_seq=4 ttl=112 time=69.0 ms
+64 bytes from 50.62.11.69: icmp_seq=5 ttl=112 time=68.9 ms
+64 bytes from 50.62.11.69: icmp_seq=6 ttl=112 time=69.0 ms
+64 bytes from 50.62.11.69: icmp_seq=7 ttl=112 time=69.0 ms
+64 bytes from 50.62.11.69: icmp_seq=8 ttl=112 time=69.0 ms
+64 bytes from 50.62.11.69: icmp_seq=9 ttl=112 time=68.8 ms
+64 bytes from 50.62.11.69: icmp_seq=10 ttl=112 time=68.9 ms
+
+--- 50.62.11.69 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9012ms
+rtt min/avg/max/mdev = 68.860/69.025/69.503/0.354 ms
+
+
+Tracing route to 50.62.11.69.
+
+traceroute to 50.62.11.69 (50.62.11.69), 30 hops max, 60 byte packets
+ 1  108.170.230.132 (108.170.230.132)  61.226 ms 108.170.234.12 (108.170.234.12)  62.962 ms 108.170.230.122 (108.170.230.122)  61.093 ms
+ 2  108.170.247.228 (108.170.247.228)  61.088 ms  61.179 ms  61.238 ms
+ 3  ip-216-69-191-108.ip.secureserver.net (216.69.191.108)  61.069 ms  61.060 ms  61.023 ms
+ 4  * * *
+ 5  ip-148-72-32-16.ip.secureserver.net (148.72.32.16)  73.090 ms  73.096 ms  73.458 ms
+ 6  ae0-bbmb1001-02.bbn.mgmt.phx3.secureserver.net (148.72.32.1)  77.446 ms  76.595 ms  76.594 ms
+ 7  be39.trmc0215-01.ars.mgmt.phx3.gdg (184.168.0.73)  70.085 ms  69.628 ms  69.635 ms
+ 8  ip-208-109-112-121.ip.secureserver.net (208.109.112.121)  69.629 ms  69.619 ms  69.450 ms
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+66.240.176.71, Alpharetta (34.1124, -84.302)
+
+Time: 1547446605
+PING 66.240.176.71 (66.240.176.71) 56(84) bytes of data.
+64 bytes from 66.240.176.71: icmp_seq=1 ttl=51 time=19.2 ms
+64 bytes from 66.240.176.71: icmp_seq=2 ttl=51 time=18.9 ms
+64 bytes from 66.240.176.71: icmp_seq=3 ttl=51 time=18.8 ms
+64 bytes from 66.240.176.71: icmp_seq=4 ttl=51 time=18.5 ms
+64 bytes from 66.240.176.71: icmp_seq=5 ttl=51 time=18.7 ms
+64 bytes from 66.240.176.71: icmp_seq=6 ttl=51 time=18.6 ms
+64 bytes from 66.240.176.71: icmp_seq=7 ttl=51 time=18.7 ms
+64 bytes from 66.240.176.71: icmp_seq=8 ttl=51 time=18.8 ms
+64 bytes from 66.240.176.71: icmp_seq=9 ttl=51 time=18.6 ms
+64 bytes from 66.240.176.71: icmp_seq=10 ttl=51 time=18.6 ms
+
+--- 66.240.176.71 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9014ms
+rtt min/avg/max/mdev = 18.549/18.790/19.234/0.205 ms
+
+
+Tracing route to 66.240.176.71.
+
+traceroute to 66.240.176.71 (66.240.176.71), 30 hops max, 60 byte packets
+ 1  * * *
+ 2  * * *
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
+12.218.237.3, South Bend (41.6973, -86.2202)
+
+Time: 1547446644
+PING 12.218.237.3 (12.218.237.3) 56(84) bytes of data.
+64 bytes from 12.218.237.3: icmp_seq=1 ttl=113 time=28.8 ms
+64 bytes from 12.218.237.3: icmp_seq=2 ttl=113 time=28.1 ms
+64 bytes from 12.218.237.3: icmp_seq=3 ttl=113 time=28.0 ms
+64 bytes from 12.218.237.3: icmp_seq=4 ttl=113 time=28.1 ms
+64 bytes from 12.218.237.3: icmp_seq=5 ttl=113 time=28.1 ms
+64 bytes from 12.218.237.3: icmp_seq=6 ttl=113 time=28.3 ms
+64 bytes from 12.218.237.3: icmp_seq=7 ttl=114 time=28.0 ms
+64 bytes from 12.218.237.3: icmp_seq=8 ttl=114 time=28.1 ms
+64 bytes from 12.218.237.3: icmp_seq=9 ttl=114 time=27.9 ms
+64 bytes from 12.218.237.3: icmp_seq=10 ttl=114 time=28.0 ms
+
+--- 12.218.237.3 ping statistics ---
+10 packets transmitted, 10 received, 0% packet loss, time 9003ms
+rtt min/avg/max/mdev = 27.934/28.180/28.852/0.261 ms
+
+
+Tracing route to 12.218.237.3.
+
+traceroute to 12.218.237.3 (12.218.237.3), 30 hops max, 60 byte packets
+ 1  12.123.159.17 (12.123.159.17)  18.711 ms  18.849 ms  18.699 ms
+ 2  12.252.47.166 (12.252.47.166)  27.903 ms  27.694 ms  27.166 ms
+ 3  * * *
+ 4  * * *
+ 5  * * *
+ 6  * * *
+ 7  * * *
+ 8  * * *
+ 9  * * *
+10  * * *
+11  * * *
+12  * * *
+13  * * *
+14  * * *
+15  * * *
+16  * * *
+17  * * *
+18  * * *
+19  * * *
+20  * * *
+21  * * *
+22  * * *
+23  * * *
+24  * * *
+25  * * *
+26  * * *
+27  * * *
+28  * * *
+29  * * *
+30  * * *
+Traceroute complete.
+
+
+
+
